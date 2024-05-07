@@ -1,0 +1,1015 @@
+0.252938859464916
+[I 2024-05-07 14:11:02,531] Trial 0 pruned. 
+[I 2024-05-07 14:11:04,678] Trial 1 pruned. 
+[I 2024-05-07 14:11:06,843] Trial 2 pruned. 
+[I 2024-05-07 14:11:09,691] Trial 3 pruned. 
+[I 2024-05-07 14:11:11,853] Trial 4 pruned. 
+[I 2024-05-07 14:11:16,980] Trial 5 pruned. 
+[I 2024-05-07 14:11:19,155] Trial 6 pruned. 
+[I 2024-05-07 14:11:24,273] Trial 7 pruned. 
+[I 2024-05-07 14:11:29,406] Trial 8 pruned. 
+[I 2024-05-07 14:11:32,307] Trial 9 pruned. 
+[I 2024-05-07 14:11:35,242] Trial 10 pruned. 
+[I 2024-05-07 14:11:38,141] Trial 11 pruned. 
+[I 2024-05-07 14:11:40,349] Trial 12 pruned. 
+[I 2024-05-07 14:11:43,323] Trial 13 pruned. 
+[I 2024-05-07 14:11:46,197] Trial 14 pruned. 
+[I 2024-05-07 14:11:49,038] Trial 15 pruned. 
+[I 2024-05-07 14:11:54,206] Trial 16 pruned. 
+[I 2024-05-07 14:12:05,837] Trial 17 pruned. 
+[I 2024-05-07 14:12:08,015] Trial 18 pruned. 
+[I 2024-05-07 14:12:10,232] Trial 19 pruned. 
+[I 2024-05-07 14:12:15,279] Trial 20 pruned. 
+[I 2024-05-07 14:12:26,933] Trial 21 pruned. 
+[I 2024-05-07 14:12:29,859] Trial 22 pruned. 
+[I 2024-05-07 14:12:32,032] Trial 23 pruned. 
+[I 2024-05-07 14:12:34,960] Trial 24 pruned. 
+[I 2024-05-07 14:12:46,610] Trial 25 pruned. 
+[I 2024-05-07 14:12:49,488] Trial 26 pruned. 
+[I 2024-05-07 14:12:52,405] Trial 27 pruned. 
+[I 2024-05-07 14:13:04,001] Trial 28 pruned. 
+[I 2024-05-07 14:13:06,306] Trial 29 pruned. 
+[I 2024-05-07 14:13:08,439] Trial 30 pruned. 
+[I 2024-05-07 14:13:10,597] Trial 31 pruned. 
+[I 2024-05-07 14:13:13,498] Trial 32 pruned. 
+[I 2024-05-07 14:13:18,479] Trial 33 pruned. 
+[I 2024-05-07 14:13:23,467] Trial 34 pruned. 
+[I 2024-05-07 14:13:25,562] Trial 35 pruned. 
+[I 2024-05-07 14:13:36,972] Trial 36 pruned. 
+[I 2024-05-07 14:13:39,082] Trial 37 pruned. 
+[I 2024-05-07 14:13:41,204] Trial 38 pruned. 
+[I 2024-05-07 14:13:44,083] Trial 39 pruned. 
+[I 2024-05-07 14:13:46,963] Trial 40 pruned. 
+[I 2024-05-07 14:13:49,779] Trial 41 pruned. 
+[I 2024-05-07 14:13:54,827] Trial 42 pruned. 
+[I 2024-05-07 14:13:56,929] Trial 43 pruned. 
+[I 2024-05-07 14:14:08,354] Trial 44 pruned. 
+[I 2024-05-07 14:14:13,425] Trial 45 pruned. 
+[I 2024-05-07 14:14:24,857] Trial 46 pruned. 
+[I 2024-05-07 14:14:36,296] Trial 47 pruned. 
+[I 2024-05-07 14:14:38,442] Trial 48 pruned. 
+[I 2024-05-07 14:14:49,865] Trial 49 pruned. 
+[I 2024-05-07 14:14:52,758] Trial 50 pruned. 
+[I 2024-05-07 14:14:57,734] Trial 51 pruned. 
+[I 2024-05-07 14:15:09,169] Trial 52 pruned. 
+[I 2024-05-07 14:15:20,612] Trial 53 pruned. 
+[I 2024-05-07 14:15:32,283] Trial 54 pruned. 
+[I 2024-05-07 14:15:37,270] Trial 55 pruned. 
+[I 2024-05-07 14:15:39,399] Trial 56 pruned. 
+[I 2024-05-07 14:15:42,225] Trial 57 pruned. 
+[I 2024-05-07 14:15:44,344] Trial 58 pruned. 
+[I 2024-05-07 14:15:47,191] Trial 59 pruned. 
+[I 2024-05-07 14:15:52,262] Trial 60 pruned. 
+[I 2024-05-07 14:15:57,255] Trial 61 pruned. 
+[I 2024-05-07 14:16:08,933] Trial 62 pruned. 
+[I 2024-05-07 14:16:11,093] Trial 63 pruned. 
+[I 2024-05-07 14:16:16,090] Trial 64 pruned. 
+[I 2024-05-07 14:16:18,988] Trial 65 pruned. 
+[I 2024-05-07 14:16:21,883] Trial 66 pruned. 
+[I 2024-05-07 14:16:26,885] Trial 67 pruned. 
+[I 2024-05-07 14:16:28,990] Trial 68 pruned. 
+[I 2024-05-07 14:16:31,117] Trial 69 pruned. 
+[I 2024-05-07 14:16:33,257] Trial 70 pruned. 
+[I 2024-05-07 14:16:35,434] Trial 71 pruned. 
+[I 2024-05-07 14:16:40,447] Trial 72 pruned. 
+[I 2024-05-07 14:16:42,581] Trial 73 pruned. 
+[I 2024-05-07 14:16:44,766] Trial 74 pruned. 
+[I 2024-05-07 14:16:46,941] Trial 75 pruned. 
+[I 2024-05-07 14:16:49,812] Trial 76 pruned. 
+[I 2024-05-07 14:16:52,723] Trial 77 pruned. 
+[I 2024-05-07 14:16:57,849] Trial 78 pruned. 
+[I 2024-05-07 14:17:00,776] Trial 79 pruned. 
+[I 2024-05-07 14:17:02,959] Trial 80 pruned. 
+[I 2024-05-07 14:17:07,999] Trial 81 pruned. 
+[I 2024-05-07 14:17:10,868] Trial 82 pruned. 
+[I 2024-05-07 14:17:13,789] Trial 83 pruned. 
+[I 2024-05-07 14:17:16,710] Trial 84 pruned. 
+[I 2024-05-07 14:17:19,633] Trial 85 pruned. 
+[I 2024-05-07 14:17:24,763] Trial 86 pruned. 
+[I 2024-05-07 14:17:29,795] Trial 87 pruned. 
+[I 2024-05-07 14:17:31,942] Trial 88 pruned. 
+[I 2024-05-07 14:17:34,874] Trial 89 pruned. 
+[I 2024-05-07 14:17:37,074] Trial 90 pruned. 
+[I 2024-05-07 14:17:39,238] Trial 91 pruned. 
+[I 2024-05-07 14:17:58,752] Trial 92 finished with value: 0.7385767698287964 and parameters: {'fc_dropout': 0.11599769131838739, 'window_perc': 0.4105372457652797, 'Huber_delta': 1.4364738130367365, 'by_sample': False, 'by_var': True}. Best is trial 92 with value: 0.7385767698287964.
+[I 2024-05-07 14:18:03,891] Trial 93 pruned. 
+[I 2024-05-07 14:18:06,094] Trial 94 pruned. 
+[I 2024-05-07 14:18:11,237] Trial 95 pruned. 
+[I 2024-05-07 14:18:14,188] Trial 96 pruned. 
+[I 2024-05-07 14:18:16,356] Trial 97 pruned. 
+[I 2024-05-07 14:18:21,396] Trial 98 pruned. 
+[I 2024-05-07 14:18:26,548] Trial 99 pruned. 
+[I 2024-05-07 14:18:31,699] Trial 100 pruned. 
+[I 2024-05-07 14:18:33,904] Trial 101 pruned. 
+[I 2024-05-07 14:18:45,409] Trial 102 pruned. 
+[I 2024-05-07 14:18:47,631] Trial 103 pruned. 
+[I 2024-05-07 14:18:59,148] Trial 104 pruned. 
+[I 2024-05-07 14:19:01,357] Trial 105 pruned. 
+[I 2024-05-07 14:19:04,302] Trial 106 pruned. 
+[I 2024-05-07 14:19:16,079] Trial 107 pruned. 
+[I 2024-05-07 14:19:21,157] Trial 108 pruned. 
+[I 2024-05-07 14:19:24,095] Trial 109 pruned. 
+[I 2024-05-07 14:19:29,125] Trial 110 pruned. 
+[I 2024-05-07 14:19:34,150] Trial 111 pruned. 
+[I 2024-05-07 14:19:36,347] Trial 112 pruned. 
+[I 2024-05-07 14:19:39,220] Trial 113 pruned. 
+[I 2024-05-07 14:19:42,155] Trial 114 pruned. 
+[I 2024-05-07 14:19:45,055] Trial 115 pruned. 
+[I 2024-05-07 14:19:47,232] Trial 116 pruned. 
+[I 2024-05-07 14:19:50,165] Trial 117 pruned. 
+[I 2024-05-07 14:19:52,343] Trial 118 pruned. 
+[I 2024-05-07 14:19:55,297] Trial 119 pruned. 
+[I 2024-05-07 14:19:57,512] Trial 120 pruned. 
+[I 2024-05-07 14:20:00,406] Trial 121 pruned. 
+[I 2024-05-07 14:20:02,626] Trial 122 pruned. 
+[I 2024-05-07 14:20:14,104] Trial 123 pruned. 
+[I 2024-05-07 14:20:25,608] Trial 124 pruned. 
+[I 2024-05-07 14:20:28,577] Trial 125 pruned. 
+[I 2024-05-07 14:20:30,802] Trial 126 pruned. 
+[I 2024-05-07 14:20:33,040] Trial 127 pruned. 
+[I 2024-05-07 14:20:38,189] Trial 128 pruned. 
+[I 2024-05-07 14:20:41,159] Trial 129 pruned. 
+[I 2024-05-07 14:21:00,620] Trial 130 finished with value: 0.6295293569564819 and parameters: {'fc_dropout': 0.23034544656739225, 'window_perc': 0.6551595419975716, 'Huber_delta': 1.048748430330117, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:21:02,861] Trial 131 pruned. 
+[I 2024-05-07 14:21:05,785] Trial 132 pruned. 
+[I 2024-05-07 14:21:08,714] Trial 133 pruned. 
+[I 2024-05-07 14:21:11,693] Trial 134 pruned. 
+[I 2024-05-07 14:21:14,610] Trial 135 pruned. 
+[I 2024-05-07 14:21:17,576] Trial 136 pruned. 
+[I 2024-05-07 14:21:19,811] Trial 137 pruned. 
+[I 2024-05-07 14:21:22,049] Trial 138 pruned. 
+[I 2024-05-07 14:21:33,589] Trial 139 pruned. 
+[I 2024-05-07 14:21:35,840] Trial 140 pruned. 
+[I 2024-05-07 14:21:38,088] Trial 141 pruned. 
+[I 2024-05-07 14:21:49,623] Trial 142 pruned. 
+[I 2024-05-07 14:22:01,129] Trial 143 pruned. 
+[I 2024-05-07 14:22:03,357] Trial 144 pruned. 
+[I 2024-05-07 14:22:05,564] Trial 145 pruned. 
+[I 2024-05-07 14:22:10,729] Trial 146 pruned. 
+[I 2024-05-07 14:22:15,877] Trial 147 pruned. 
+[I 2024-05-07 14:22:27,366] Trial 148 pruned. 
+[I 2024-05-07 14:22:29,564] Trial 149 pruned. 
+[I 2024-05-07 14:22:34,716] Trial 150 pruned. 
+[I 2024-05-07 14:22:37,631] Trial 151 pruned. 
+[I 2024-05-07 14:22:42,676] Trial 152 pruned. 
+[I 2024-05-07 14:22:47,828] Trial 153 pruned. 
+[I 2024-05-07 14:22:52,979] Trial 154 pruned. 
+[I 2024-05-07 14:22:55,220] Trial 155 pruned. 
+[I 2024-05-07 14:22:58,156] Trial 156 pruned. 
+[I 2024-05-07 14:23:00,362] Trial 157 pruned. 
+[I 2024-05-07 14:23:03,336] Trial 158 pruned. 
+[I 2024-05-07 14:23:06,315] Trial 159 pruned. 
+[I 2024-05-07 14:23:08,529] Trial 160 pruned. 
+[I 2024-05-07 14:23:11,511] Trial 161 pruned. 
+[I 2024-05-07 14:23:14,492] Trial 162 pruned. 
+[I 2024-05-07 14:23:19,672] Trial 163 pruned. 
+[I 2024-05-07 14:23:24,762] Trial 164 pruned. 
+[I 2024-05-07 14:23:27,692] Trial 165 pruned. 
+[I 2024-05-07 14:23:32,788] Trial 166 pruned. 
+[I 2024-05-07 14:23:35,736] Trial 167 pruned. 
+[I 2024-05-07 14:23:38,701] Trial 168 pruned. 
+[I 2024-05-07 14:23:40,969] Trial 169 pruned. 
+[I 2024-05-07 14:23:46,170] Trial 170 pruned. 
+[I 2024-05-07 14:23:48,439] Trial 171 pruned. 
+[I 2024-05-07 14:23:53,558] Trial 172 pruned. 
+[I 2024-05-07 14:23:58,765] Trial 173 pruned. 
+[I 2024-05-07 14:24:01,030] Trial 174 pruned. 
+[I 2024-05-07 14:24:12,588] Trial 175 pruned. 
+[I 2024-05-07 14:24:14,882] Trial 176 pruned. 
+[I 2024-05-07 14:24:17,175] Trial 177 pruned. 
+[I 2024-05-07 14:24:20,178] Trial 178 pruned. 
+[I 2024-05-07 14:24:25,298] Trial 179 pruned. 
+[I 2024-05-07 14:24:28,316] Trial 180 pruned. 
+[I 2024-05-07 14:24:31,299] Trial 181 pruned. 
+[I 2024-05-07 14:24:33,588] Trial 182 pruned. 
+[I 2024-05-07 14:24:36,559] Trial 183 pruned. 
+[I 2024-05-07 14:24:38,849] Trial 184 pruned. 
+[I 2024-05-07 14:24:43,965] Trial 185 pruned. 
+[I 2024-05-07 14:24:46,258] Trial 186 pruned. 
+[I 2024-05-07 14:24:49,299] Trial 187 pruned. 
+[I 2024-05-07 14:24:51,560] Trial 188 pruned. 
+[I 2024-05-07 14:24:53,820] Trial 189 pruned. 
+[I 2024-05-07 14:25:05,434] Trial 190 pruned. 
+[I 2024-05-07 14:25:07,742] Trial 191 pruned. 
+[I 2024-05-07 14:25:10,787] Trial 192 pruned. 
+[I 2024-05-07 14:25:15,928] Trial 193 pruned. 
+[I 2024-05-07 14:25:18,196] Trial 194 pruned. 
+[I 2024-05-07 14:25:20,514] Trial 195 pruned. 
+[I 2024-05-07 14:25:25,770] Trial 196 pruned. 
+[I 2024-05-07 14:25:28,048] Trial 197 pruned. 
+[I 2024-05-07 14:25:33,294] Trial 198 pruned. 
+[I 2024-05-07 14:25:36,314] Trial 199 pruned. 
+[I 2024-05-07 14:25:47,885] Trial 200 pruned. 
+[I 2024-05-07 14:25:53,006] Trial 201 pruned. 
+[I 2024-05-07 14:26:04,498] Trial 202 pruned. 
+[I 2024-05-07 14:26:16,011] Trial 203 pruned. 
+[I 2024-05-07 14:26:35,326] Trial 204 finished with value: 0.8274292349815369 and parameters: {'fc_dropout': 0.14513535800067898, 'window_perc': 0.133436544590324, 'Huber_delta': 1.2458955916015684, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:26:54,702] Trial 205 finished with value: 0.8696889877319336 and parameters: {'fc_dropout': 0.1535137683690232, 'window_perc': 0.15694075330655521, 'Huber_delta': 1.3429822942147989, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:27:06,207] Trial 206 pruned. 
+[I 2024-05-07 14:27:17,717] Trial 207 pruned. 
+[I 2024-05-07 14:27:37,093] Trial 208 finished with value: 0.7778882384300232 and parameters: {'fc_dropout': 0.4830286806707791, 'window_perc': 0.1516737033084069, 'Huber_delta': 1.239330177627624, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:27:56,454] Trial 209 finished with value: 0.6952089071273804 and parameters: {'fc_dropout': 0.47873260824890773, 'window_perc': 0.15601897717240926, 'Huber_delta': 1.0012553891861427, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:28:15,826] Trial 210 finished with value: 0.7819293737411499 and parameters: {'fc_dropout': 0.4770566472917735, 'window_perc': 0.13460522374989858, 'Huber_delta': 1.2459484568033115, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:28:35,177] Trial 211 finished with value: 0.7676213979721069 and parameters: {'fc_dropout': 0.4824517636374351, 'window_perc': 0.132680097841112, 'Huber_delta': 1.242265684416518, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:28:46,710] Trial 212 pruned. 
+[I 2024-05-07 14:29:06,094] Trial 213 finished with value: 0.7904928922653198 and parameters: {'fc_dropout': 0.48776582349077674, 'window_perc': 0.14835131089997475, 'Huber_delta': 1.2363899239588252, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:29:17,622] Trial 214 pruned. 
+[I 2024-05-07 14:29:36,997] Trial 215 finished with value: 0.6617730855941772 and parameters: {'fc_dropout': 0.48335922452442615, 'window_perc': 0.12479222230299895, 'Huber_delta': 1.0058876954214704, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:29:42,116] Trial 216 pruned. 
+[I 2024-05-07 14:30:01,498] Trial 217 finished with value: 0.6679913401603699 and parameters: {'fc_dropout': 0.4885203640146657, 'window_perc': 0.14021407617471923, 'Huber_delta': 1.0023728365695141, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:30:20,911] Trial 218 finished with value: 0.7585415244102478 and parameters: {'fc_dropout': 0.1534900508422397, 'window_perc': 0.14583740005819804, 'Huber_delta': 1.0124904614105885, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:30:32,466] Trial 219 pruned. 
+[I 2024-05-07 14:30:51,869] Trial 220 finished with value: 0.7294152975082397 and parameters: {'fc_dropout': 0.15264296354368004, 'window_perc': 0.15259313648302678, 'Huber_delta': 1.009818753507363, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:31:11,444] Trial 221 finished with value: 0.7905322313308716 and parameters: {'fc_dropout': 0.1280717932539001, 'window_perc': 0.14885884141027111, 'Huber_delta': 1.0026201105516888, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:31:16,632] Trial 222 pruned. 
+[I 2024-05-07 14:31:36,192] Trial 223 finished with value: 0.7307446002960205 and parameters: {'fc_dropout': 0.15076665646448825, 'window_perc': 0.14919295346059486, 'Huber_delta': 1.0115607021994146, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:31:55,748] Trial 224 finished with value: 0.7064998149871826 and parameters: {'fc_dropout': 0.15517922385198735, 'window_perc': 0.15486526237207662, 'Huber_delta': 1.0012905421231904, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:32:07,365] Trial 225 pruned. 
+[I 2024-05-07 14:32:26,902] Trial 226 finished with value: 0.7106051445007324 and parameters: {'fc_dropout': 0.12072307141615564, 'window_perc': 0.15140752406658556, 'Huber_delta': 1.0025097924791504, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:32:32,085] Trial 227 pruned. 
+[I 2024-05-07 14:32:51,612] Trial 228 finished with value: 0.6939075589179993 and parameters: {'fc_dropout': 0.1315763158240924, 'window_perc': 0.17110923098480915, 'Huber_delta': 1.0004305196013306, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:33:11,147] Trial 229 finished with value: 0.6947214007377625 and parameters: {'fc_dropout': 0.15210963755120374, 'window_perc': 0.17175612189669923, 'Huber_delta': 1.001063527387199, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:33:30,679] Trial 230 finished with value: 0.657966673374176 and parameters: {'fc_dropout': 0.15333503509292298, 'window_perc': 0.17881189705848782, 'Huber_delta': 1.0060582486036826, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:33:42,325] Trial 231 pruned. 
+[I 2024-05-07 14:34:01,866] Trial 232 finished with value: 0.6526791453361511 and parameters: {'fc_dropout': 0.12262153016597374, 'window_perc': 0.17966739681347307, 'Huber_delta': 1.0040904563961224, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:34:07,058] Trial 233 pruned. 
+[I 2024-05-07 14:34:26,604] Trial 234 finished with value: 0.6846224069595337 and parameters: {'fc_dropout': 0.15390651164090832, 'window_perc': 0.18189031474830475, 'Huber_delta': 1.0337449478694374, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:34:31,791] Trial 235 pruned. 
+[I 2024-05-07 14:34:43,433] Trial 236 pruned. 
+[I 2024-05-07 14:34:48,637] Trial 237 pruned. 
+[I 2024-05-07 14:35:08,217] Trial 238 finished with value: 0.7362824082374573 and parameters: {'fc_dropout': 0.1578961182655882, 'window_perc': 0.16142199356195944, 'Huber_delta': 1.0252064340958835, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:35:27,791] Trial 239 finished with value: 0.7126094102859497 and parameters: {'fc_dropout': 0.1564955216673367, 'window_perc': 0.1596491399229521, 'Huber_delta': 1.0256097003780582, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:35:39,454] Trial 240 pruned. 
+[I 2024-05-07 14:35:51,111] Trial 241 pruned. 
+[I 2024-05-07 14:36:02,792] Trial 242 pruned. 
+[I 2024-05-07 14:36:22,366] Trial 243 finished with value: 0.833048403263092 and parameters: {'fc_dropout': 0.17823115176769977, 'window_perc': 0.1366369627832247, 'Huber_delta': 1.0022292288900458, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:36:25,411] Trial 244 pruned. 
+[I 2024-05-07 14:36:37,084] Trial 245 pruned. 
+[I 2024-05-07 14:36:48,767] Trial 246 pruned. 
+[I 2024-05-07 14:36:54,004] Trial 247 pruned. 
+[I 2024-05-07 14:36:57,071] Trial 248 pruned. 
+[I 2024-05-07 14:37:02,298] Trial 249 pruned. 
+[I 2024-05-07 14:37:07,532] Trial 250 pruned. 
+[I 2024-05-07 14:37:12,745] Trial 251 pruned. 
+[I 2024-05-07 14:37:24,442] Trial 252 pruned. 
+[I 2024-05-07 14:37:29,683] Trial 253 pruned. 
+[I 2024-05-07 14:37:41,393] Trial 254 pruned. 
+[I 2024-05-07 14:38:01,054] Trial 255 finished with value: 0.6734876036643982 and parameters: {'fc_dropout': 0.12966726946958568, 'window_perc': 0.17928392536450422, 'Huber_delta': 1.020272222254955, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:38:12,771] Trial 256 pruned. 
+[I 2024-05-07 14:38:15,852] Trial 257 pruned. 
+[I 2024-05-07 14:38:27,530] Trial 258 pruned. 
+[I 2024-05-07 14:38:47,087] Trial 259 finished with value: 0.7227391004562378 and parameters: {'fc_dropout': 0.5013771519532308, 'window_perc': 0.16981217230660792, 'Huber_delta': 1.048464424376912, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:39:06,684] Trial 260 finished with value: 0.6594303250312805 and parameters: {'fc_dropout': 0.5030520031549104, 'window_perc': 0.1734211475885923, 'Huber_delta': 1.0400258370954372, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:39:26,228] Trial 261 finished with value: 0.6773152947425842 and parameters: {'fc_dropout': 0.5041271959832049, 'window_perc': 0.17409080067828153, 'Huber_delta': 1.0441157030637949, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:39:37,906] Trial 262 pruned. 
+[I 2024-05-07 14:39:49,575] Trial 263 pruned. 
+[I 2024-05-07 14:39:54,796] Trial 264 pruned. 
+[I 2024-05-07 14:40:06,485] Trial 265 pruned. 
+[I 2024-05-07 14:40:11,704] Trial 266 pruned. 
+[I 2024-05-07 14:40:16,920] Trial 267 pruned. 
+[I 2024-05-07 14:40:36,491] Trial 268 finished with value: 0.6401733756065369 and parameters: {'fc_dropout': 0.5494761849859461, 'window_perc': 0.17852716352948103, 'Huber_delta': 1.0411638080285919, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:40:48,158] Trial 269 pruned. 
+[I 2024-05-07 14:40:53,405] Trial 270 pruned. 
+[I 2024-05-07 14:40:58,638] Trial 271 pruned. 
+[I 2024-05-07 14:41:01,723] Trial 272 pruned. 
+[I 2024-05-07 14:41:21,317] Trial 273 finished with value: 0.7277482151985168 and parameters: {'fc_dropout': 0.16368791853539447, 'window_perc': 0.160023444050669, 'Huber_delta': 1.0231432250201822, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:41:24,402] Trial 274 pruned. 
+[I 2024-05-07 14:41:29,654] Trial 275 pruned. 
+[I 2024-05-07 14:41:34,902] Trial 276 pruned. 
+[I 2024-05-07 14:41:38,002] Trial 277 pruned. 
+[I 2024-05-07 14:41:57,610] Trial 278 finished with value: 0.6374749541282654 and parameters: {'fc_dropout': 0.5632239259177727, 'window_perc': 0.16636845814594278, 'Huber_delta': 1.0380962723955311, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:42:02,857] Trial 279 pruned. 
+[I 2024-05-07 14:42:08,103] Trial 280 pruned. 
+[I 2024-05-07 14:42:11,183] Trial 281 pruned. 
+[I 2024-05-07 14:42:14,274] Trial 282 pruned. 
+[I 2024-05-07 14:42:17,371] Trial 283 pruned. 
+[I 2024-05-07 14:42:22,619] Trial 284 pruned. 
+[I 2024-05-07 14:42:34,337] Trial 285 pruned. 
+[I 2024-05-07 14:42:37,438] Trial 286 pruned. 
+[I 2024-05-07 14:42:42,696] Trial 287 pruned. 
+[I 2024-05-07 14:42:47,951] Trial 288 pruned. 
+[I 2024-05-07 14:42:50,335] Trial 289 pruned. 
+[I 2024-05-07 14:42:55,594] Trial 290 pruned. 
+[I 2024-05-07 14:43:15,303] Trial 291 finished with value: 0.728588879108429 and parameters: {'fc_dropout': 0.207312687113629, 'window_perc': 0.20009848983639564, 'Huber_delta': 1.0319470496233103, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:43:18,400] Trial 292 pruned. 
+[I 2024-05-07 14:43:21,511] Trial 293 pruned. 
+[I 2024-05-07 14:43:41,207] Trial 294 finished with value: 0.7184315919876099 and parameters: {'fc_dropout': 0.18581082225156634, 'window_perc': 0.18461288315183733, 'Huber_delta': 1.0228683271856018, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:44:00,904] Trial 295 finished with value: 0.657752513885498 and parameters: {'fc_dropout': 0.1844355851647266, 'window_perc': 0.2127356702229883, 'Huber_delta': 1.0375613295295776, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:44:04,018] Trial 296 pruned. 
+[I 2024-05-07 14:44:15,767] Trial 297 pruned. 
+[I 2024-05-07 14:44:35,485] Trial 298 finished with value: 0.6926276087760925 and parameters: {'fc_dropout': 0.18470308005605485, 'window_perc': 0.18388415621736076, 'Huber_delta': 1.0614916433978472, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:44:47,244] Trial 299 pruned. 
+[I 2024-05-07 14:44:50,346] Trial 300 pruned. 
+[I 2024-05-07 14:44:53,446] Trial 301 pruned. 
+[I 2024-05-07 14:44:55,830] Trial 302 pruned. 
+[I 2024-05-07 14:45:01,077] Trial 303 pruned. 
+[I 2024-05-07 14:45:03,475] Trial 304 pruned. 
+[I 2024-05-07 14:45:06,584] Trial 305 pruned. 
+[I 2024-05-07 14:45:11,834] Trial 306 pruned. 
+[I 2024-05-07 14:45:14,942] Trial 307 pruned. 
+[I 2024-05-07 14:45:20,197] Trial 308 pruned. 
+[I 2024-05-07 14:45:31,886] Trial 309 pruned. 
+[I 2024-05-07 14:45:37,144] Trial 310 pruned. 
+[I 2024-05-07 14:45:59,704] Trial 311 finished with value: 0.713265061378479 and parameters: {'fc_dropout': 0.14499390562583572, 'window_perc': 0.15792562528625567, 'Huber_delta': 1.0006473400935494, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:46:05,711] Trial 312 pruned. 
+[I 2024-05-07 14:46:09,239] Trial 313 pruned. 
+[I 2024-05-07 14:46:15,245] Trial 314 pruned. 
+[I 2024-05-07 14:46:28,683] Trial 315 pruned. 
+[I 2024-05-07 14:46:34,699] Trial 316 pruned. 
+[I 2024-05-07 14:46:57,267] Trial 317 finished with value: 0.7272626757621765 and parameters: {'fc_dropout': 0.1286406071458457, 'window_perc': 0.14348950752573353, 'Huber_delta': 1.0225473496703306, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:47:19,848] Trial 318 finished with value: 0.7253220081329346 and parameters: {'fc_dropout': 0.1255252350570418, 'window_perc': 0.140226959794657, 'Huber_delta': 1.029032411917671, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:47:42,434] Trial 319 finished with value: 0.7385796904563904 and parameters: {'fc_dropout': 0.12681127018120258, 'window_perc': 0.12708770915835177, 'Huber_delta': 1.021769245025311, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:48:05,025] Trial 320 finished with value: 0.7316233515739441 and parameters: {'fc_dropout': 0.11918642447446087, 'window_perc': 0.14039398361781255, 'Huber_delta': 1.0638351611663044, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:48:18,501] Trial 321 pruned. 
+[I 2024-05-07 14:48:22,059] Trial 322 pruned. 
+[I 2024-05-07 14:48:27,306] Trial 323 pruned. 
+[I 2024-05-07 14:48:38,998] Trial 324 pruned. 
+[I 2024-05-07 14:48:42,120] Trial 325 pruned. 
+[I 2024-05-07 14:49:01,698] Trial 326 finished with value: 0.653403103351593 and parameters: {'fc_dropout': 0.5382496256792949, 'window_perc': 0.1184594068210187, 'Huber_delta': 1.050686446419621, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:49:06,966] Trial 327 pruned. 
+[I 2024-05-07 14:49:18,693] Trial 328 pruned. 
+[I 2024-05-07 14:49:38,296] Trial 329 finished with value: 0.6570054888725281 and parameters: {'fc_dropout': 0.5288139187042432, 'window_perc': 0.10602946012683101, 'Huber_delta': 1.0757050919820468, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:49:57,910] Trial 330 finished with value: 0.6546280980110168 and parameters: {'fc_dropout': 0.5322996261415955, 'window_perc': 0.10501936343358961, 'Huber_delta': 1.0695343848182184, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:50:03,176] Trial 331 pruned. 
+[I 2024-05-07 14:50:22,765] Trial 332 finished with value: 0.6778202056884766 and parameters: {'fc_dropout': 0.5433867929611221, 'window_perc': 0.10038902359857411, 'Huber_delta': 1.078932524159435, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:50:28,047] Trial 333 pruned. 
+[I 2024-05-07 14:50:33,309] Trial 334 pruned. 
+[I 2024-05-07 14:50:52,949] Trial 335 finished with value: 0.6647691130638123 and parameters: {'fc_dropout': 0.559919600511329, 'window_perc': 0.1017743831804762, 'Huber_delta': 1.0742375097439647, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:51:12,590] Trial 336 finished with value: 0.6861752271652222 and parameters: {'fc_dropout': 0.5631598547920019, 'window_perc': 0.10104311716245416, 'Huber_delta': 1.0829995083059603, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:51:14,991] Trial 337 pruned. 
+[I 2024-05-07 14:51:18,123] Trial 338 pruned. 
+[I 2024-05-07 14:51:23,416] Trial 339 pruned. 
+[I 2024-05-07 14:51:28,667] Trial 340 pruned. 
+[I 2024-05-07 14:51:48,186] Trial 341 finished with value: 0.6517757773399353 and parameters: {'fc_dropout': 0.5578423766992637, 'window_perc': 0.11364011592206448, 'Huber_delta': 1.0717916514677248, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:51:53,441] Trial 342 pruned. 
+[I 2024-05-07 14:51:58,691] Trial 343 pruned. 
+[I 2024-05-07 14:52:03,948] Trial 344 pruned. 
+[I 2024-05-07 14:52:07,067] Trial 345 pruned. 
+[I 2024-05-07 14:52:12,343] Trial 346 pruned. 
+[I 2024-05-07 14:52:31,877] Trial 347 finished with value: 0.6641987562179565 and parameters: {'fc_dropout': 0.5204124637125772, 'window_perc': 0.12229773793977769, 'Huber_delta': 1.084190442780858, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:52:37,142] Trial 348 pruned. 
+[I 2024-05-07 14:52:42,420] Trial 349 pruned. 
+[I 2024-05-07 14:52:47,686] Trial 350 pruned. 
+[I 2024-05-07 14:52:52,941] Trial 351 pruned. 
+[I 2024-05-07 14:53:12,491] Trial 352 finished with value: 0.6656926870346069 and parameters: {'fc_dropout': 0.5657880700396726, 'window_perc': 0.12026706956740603, 'Huber_delta': 1.0660604135022684, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:53:32,060] Trial 353 finished with value: 0.6622121930122375 and parameters: {'fc_dropout': 0.5978435515328909, 'window_perc': 0.12048002278526378, 'Huber_delta': 1.0699114588592893, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:53:37,343] Trial 354 pruned. 
+[I 2024-05-07 14:53:49,062] Trial 355 pruned. 
+[I 2024-05-07 14:54:08,625] Trial 356 finished with value: 0.6552816033363342 and parameters: {'fc_dropout': 0.5446677808565246, 'window_perc': 0.1149459692647061, 'Huber_delta': 1.0617117509701972, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:54:11,774] Trial 357 pruned. 
+[I 2024-05-07 14:54:31,326] Trial 358 finished with value: 0.6952153444290161 and parameters: {'fc_dropout': 0.5454844018616649, 'window_perc': 0.12596624108593188, 'Huber_delta': 1.0843312503591231, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:54:50,902] Trial 359 finished with value: 0.6896467804908752 and parameters: {'fc_dropout': 0.5645111570611662, 'window_perc': 0.10122026092032979, 'Huber_delta': 1.1133163082137578, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:54:56,181] Trial 360 pruned. 
+[I 2024-05-07 14:54:59,319] Trial 361 pruned. 
+[I 2024-05-07 14:55:18,881] Trial 362 finished with value: 0.6765992641448975 and parameters: {'fc_dropout': 0.5332817904969813, 'window_perc': 0.1290328603942354, 'Huber_delta': 1.0700887518202984, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:55:24,156] Trial 363 pruned. 
+[I 2024-05-07 14:55:29,427] Trial 364 pruned. 
+[I 2024-05-07 14:55:41,160] Trial 365 pruned. 
+[I 2024-05-07 14:56:00,758] Trial 366 finished with value: 0.6704235076904297 and parameters: {'fc_dropout': 0.5656522383095249, 'window_perc': 0.12884700114217776, 'Huber_delta': 1.0647849647195498, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:56:03,180] Trial 367 pruned. 
+[I 2024-05-07 14:56:22,784] Trial 368 finished with value: 0.6717962026596069 and parameters: {'fc_dropout': 0.5139257476558021, 'window_perc': 0.13097697616195614, 'Huber_delta': 1.066276863108276, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:56:25,294] Trial 369 pruned. 
+[I 2024-05-07 14:56:28,451] Trial 370 pruned. 
+[I 2024-05-07 14:56:33,765] Trial 371 pruned. 
+[I 2024-05-07 14:56:53,452] Trial 372 finished with value: 0.6428333520889282 and parameters: {'fc_dropout': 0.5078696671759365, 'window_perc': 0.129084556484103, 'Huber_delta': 1.0475019782203787, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:57:05,201] Trial 373 pruned. 
+[I 2024-05-07 14:57:08,374] Trial 374 pruned. 
+[I 2024-05-07 14:57:28,032] Trial 375 finished with value: 0.6605368256568909 and parameters: {'fc_dropout': 0.5435114203513477, 'window_perc': 0.13496086827344664, 'Huber_delta': 1.050352241606758, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:57:39,795] Trial 376 pruned. 
+[I 2024-05-07 14:57:42,229] Trial 377 pruned. 
+[I 2024-05-07 14:57:53,998] Trial 378 pruned. 
+[I 2024-05-07 14:58:13,717] Trial 379 finished with value: 0.6626735925674438 and parameters: {'fc_dropout': 0.4978387896143068, 'window_perc': 0.11955114734868015, 'Huber_delta': 1.0436835775724815, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:58:33,299] Trial 380 finished with value: 0.6774213910102844 and parameters: {'fc_dropout': 0.49370403218974696, 'window_perc': 0.11866219722694972, 'Huber_delta': 1.069977786156771, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:58:38,588] Trial 381 pruned. 
+[I 2024-05-07 14:58:41,747] Trial 382 pruned. 
+[I 2024-05-07 14:58:47,032] Trial 383 pruned. 
+[I 2024-05-07 14:58:58,682] Trial 384 pruned. 
+[I 2024-05-07 14:59:01,814] Trial 385 pruned. 
+[I 2024-05-07 14:59:07,101] Trial 386 pruned. 
+[I 2024-05-07 14:59:09,527] Trial 387 pruned. 
+[I 2024-05-07 14:59:11,966] Trial 388 pruned. 
+[I 2024-05-07 14:59:17,253] Trial 389 pruned. 
+[I 2024-05-07 14:59:22,545] Trial 390 pruned. 
+[I 2024-05-07 14:59:24,977] Trial 391 pruned. 
+[I 2024-05-07 14:59:44,509] Trial 392 finished with value: 0.6378305554389954 and parameters: {'fc_dropout': 0.510560544693485, 'window_perc': 0.12425009465356841, 'Huber_delta': 1.0379958308994457, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 14:59:56,285] Trial 393 pruned. 
+[I 2024-05-07 15:00:07,972] Trial 394 pruned. 
+[I 2024-05-07 15:00:27,531] Trial 395 finished with value: 0.7295017242431641 and parameters: {'fc_dropout': 0.5224317658046506, 'window_perc': 0.12143449174045287, 'Huber_delta': 1.0513435005058116, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 15:00:32,831] Trial 396 pruned. 
+[I 2024-05-07 15:00:44,541] Trial 397 pruned. 
+[I 2024-05-07 15:00:46,979] Trial 398 pruned. 
+[I 2024-05-07 15:01:06,554] Trial 399 finished with value: 0.6641155481338501 and parameters: {'fc_dropout': 0.5111793558285389, 'window_perc': 0.10133110259921053, 'Huber_delta': 1.0325178745768095, 'by_sample': False, 'by_var': True}. Best is trial 130 with value: 0.6295293569564819.
+[I 2024-05-07 15:01:09,022] Trial 400 pruned. 
+[I 2024-05-07 15:01:28,603] Trial 401 finished with value: 0.6272024512290955 and parameters: {'fc_dropout': 0.521966076041904, 'window_perc': 0.11066943560186501, 'Huber_delta': 1.0395926952075254, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:01:31,049] Trial 402 pruned. 
+[I 2024-05-07 15:01:50,668] Trial 403 finished with value: 0.6864726543426514 and parameters: {'fc_dropout': 0.46612847228207177, 'window_perc': 0.11416378206659494, 'Huber_delta': 1.0375705919264675, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:01:53,846] Trial 404 pruned. 
+[I 2024-05-07 15:01:59,152] Trial 405 pruned. 
+[I 2024-05-07 15:02:04,477] Trial 406 pruned. 
+[I 2024-05-07 15:02:16,237] Trial 407 pruned. 
+[I 2024-05-07 15:02:21,563] Trial 408 pruned. 
+[I 2024-05-07 15:02:33,322] Trial 409 pruned. 
+[I 2024-05-07 15:02:52,963] Trial 410 finished with value: 0.6896575093269348 and parameters: {'fc_dropout': 0.5114933212680874, 'window_perc': 0.14572791716268216, 'Huber_delta': 1.0603376616795417, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:02:56,148] Trial 411 pruned. 
+[I 2024-05-07 15:03:07,900] Trial 412 pruned. 
+[I 2024-05-07 15:03:10,386] Trial 413 pruned. 
+[I 2024-05-07 15:03:13,590] Trial 414 pruned. 
+[I 2024-05-07 15:03:16,053] Trial 415 pruned. 
+[I 2024-05-07 15:03:19,244] Trial 416 pruned. 
+[I 2024-05-07 15:03:21,722] Trial 417 pruned. 
+[I 2024-05-07 15:03:41,394] Trial 418 finished with value: 0.6488639116287231 and parameters: {'fc_dropout': 0.5691018856774341, 'window_perc': 0.13236138649860132, 'Huber_delta': 1.0787107888025784, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:03:46,753] Trial 419 pruned. 
+[I 2024-05-07 15:03:52,094] Trial 420 pruned. 
+[I 2024-05-07 15:04:11,804] Trial 421 finished with value: 0.6447710990905762 and parameters: {'fc_dropout': 0.5535905185093039, 'window_perc': 0.10102269224403493, 'Huber_delta': 1.0200553861079842, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:04:14,287] Trial 422 pruned. 
+[I 2024-05-07 15:04:19,639] Trial 423 pruned. 
+[I 2024-05-07 15:04:22,829] Trial 424 pruned. 
+[I 2024-05-07 15:04:34,630] Trial 425 pruned. 
+[I 2024-05-07 15:04:37,131] Trial 426 pruned. 
+[I 2024-05-07 15:04:40,349] Trial 427 pruned. 
+[I 2024-05-07 15:04:52,165] Trial 428 pruned. 
+[I 2024-05-07 15:04:57,540] Trial 429 pruned. 
+[I 2024-05-07 15:05:09,367] Trial 430 pruned. 
+[I 2024-05-07 15:05:29,094] Trial 431 finished with value: 0.6445335745811462 and parameters: {'fc_dropout': 0.5691100879630674, 'window_perc': 0.13051019019946017, 'Huber_delta': 1.0535539730573322, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:05:34,465] Trial 432 pruned. 
+[I 2024-05-07 15:05:39,832] Trial 433 pruned. 
+[I 2024-05-07 15:05:42,330] Trial 434 pruned. 
+[I 2024-05-07 15:06:02,052] Trial 435 finished with value: 0.7348287105560303 and parameters: {'fc_dropout': 0.6047844124979735, 'window_perc': 0.13213826151597902, 'Huber_delta': 1.0914856579155914, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:06:05,270] Trial 436 pruned. 
+[I 2024-05-07 15:06:25,028] Trial 437 finished with value: 0.6423873901367188 and parameters: {'fc_dropout': 0.5787433586290722, 'window_perc': 0.11629148968453108, 'Huber_delta': 1.0311386957743691, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:06:44,777] Trial 438 finished with value: 0.6569908261299133 and parameters: {'fc_dropout': 0.5764048249606053, 'window_perc': 0.14345711453595117, 'Huber_delta': 1.0160916461163505, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:06:47,280] Trial 439 pruned. 
+[I 2024-05-07 15:06:50,516] Trial 440 pruned. 
+[I 2024-05-07 15:06:53,011] Trial 441 pruned. 
+[I 2024-05-07 15:07:04,865] Trial 442 pruned. 
+[I 2024-05-07 15:07:10,267] Trial 443 pruned. 
+[I 2024-05-07 15:07:12,997] Trial 444 pruned. 
+[I 2024-05-07 15:07:15,719] Trial 445 pruned. 
+[I 2024-05-07 15:07:19,155] Trial 446 pruned. 
+[I 2024-05-07 15:07:21,868] Trial 447 pruned. 
+[I 2024-05-07 15:07:41,906] Trial 448 finished with value: 0.638579785823822 and parameters: {'fc_dropout': 0.5446619176670807, 'window_perc': 0.1169117285727998, 'Huber_delta': 1.0184250636790169, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:08:01,964] Trial 449 finished with value: 0.6607141494750977 and parameters: {'fc_dropout': 0.550042609273032, 'window_perc': 0.13831177777082018, 'Huber_delta': 1.0151594274076727, 'by_sample': False, 'by_var': True}. Best is trial 401 with value: 0.6272024512290955.
+[I 2024-05-07 15:08:04,676] Trial 450 pruned. 
+[I 2024-05-07 15:08:10,291] Trial 451 pruned. 
+[I 2024-05-07 15:08:13,736] Trial 452 pruned. 
+[I 2024-05-07 15:08:33,765] Trial 453 finished with value: 0.6263357996940613 and parameters: {'fc_dropout': 0.5782396705983988, 'window_perc': 0.1333715071642454, 'Huber_delta': 1.0114215289058246, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:08:39,369] Trial 454 pruned. 
+[I 2024-05-07 15:08:42,094] Trial 455 pruned. 
+[I 2024-05-07 15:09:02,145] Trial 456 finished with value: 0.6488749384880066 and parameters: {'fc_dropout': 0.5621384478495894, 'window_perc': 0.1543815121032149, 'Huber_delta': 1.019551818968242, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:09:22,197] Trial 457 finished with value: 0.6700459122657776 and parameters: {'fc_dropout': 0.5770223382068663, 'window_perc': 0.15503778526807138, 'Huber_delta': 1.0228181476507094, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:09:34,266] Trial 458 pruned. 
+[I 2024-05-07 15:09:37,726] Trial 459 pruned. 
+[I 2024-05-07 15:09:40,473] Trial 460 pruned. 
+[I 2024-05-07 15:10:00,518] Trial 461 finished with value: 0.6294676661491394 and parameters: {'fc_dropout': 0.5502357665349217, 'window_perc': 0.1644409565809409, 'Huber_delta': 1.0134594035117894, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:10:20,569] Trial 462 finished with value: 0.6731089949607849 and parameters: {'fc_dropout': 0.5816470374658215, 'window_perc': 0.163457827099877, 'Huber_delta': 1.0371739472004278, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:10:23,296] Trial 463 pruned. 
+[I 2024-05-07 15:10:26,034] Trial 464 pruned. 
+[I 2024-05-07 15:10:28,774] Trial 465 pruned. 
+[I 2024-05-07 15:10:34,410] Trial 466 pruned. 
+[I 2024-05-07 15:10:54,429] Trial 467 finished with value: 0.6427639722824097 and parameters: {'fc_dropout': 0.5885292967298354, 'window_perc': 0.1619615511769597, 'Huber_delta': 1.0292261596718812, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:10:57,899] Trial 468 pruned. 
+[I 2024-05-07 15:11:03,520] Trial 469 pruned. 
+[I 2024-05-07 15:11:06,261] Trial 470 pruned. 
+[I 2024-05-07 15:11:08,999] Trial 471 pruned. 
+[I 2024-05-07 15:11:28,995] Trial 472 finished with value: 0.6758450865745544 and parameters: {'fc_dropout': 0.580513933407605, 'window_perc': 0.16642601532859527, 'Huber_delta': 1.0131823115267693, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:11:48,995] Trial 473 finished with value: 0.660754382610321 and parameters: {'fc_dropout': 0.5639331824181378, 'window_perc': 0.14837453616212712, 'Huber_delta': 1.0557988152238207, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:11:51,743] Trial 474 pruned. 
+[I 2024-05-07 15:11:54,487] Trial 475 pruned. 
+[I 2024-05-07 15:12:14,503] Trial 476 finished with value: 0.6412540674209595 and parameters: {'fc_dropout': 0.5563234587445902, 'window_perc': 0.11473942588511622, 'Huber_delta': 1.0338895774215493, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:12:20,128] Trial 477 pruned. 
+[I 2024-05-07 15:12:25,762] Trial 478 pruned. 
+[I 2024-05-07 15:12:29,235] Trial 479 pruned. 
+[I 2024-05-07 15:12:34,858] Trial 480 pruned. 
+[I 2024-05-07 15:12:38,324] Trial 481 pruned. 
+[I 2024-05-07 15:12:58,353] Trial 482 finished with value: 0.6600158214569092 and parameters: {'fc_dropout': 0.5691006414849056, 'window_perc': 0.11240656247116398, 'Huber_delta': 1.0213449369702645, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:13:01,094] Trial 483 pruned. 
+[I 2024-05-07 15:13:21,116] Trial 484 finished with value: 0.6653186082839966 and parameters: {'fc_dropout': 0.5450785038996212, 'window_perc': 0.12547701707893424, 'Huber_delta': 1.0688673398900175, 'by_sample': False, 'by_var': True}. Best is trial 453 with value: 0.6263357996940613.
+[I 2024-05-07 15:13:23,884] Trial 485 pruned. 
+[I 2024-05-07 15:13:35,988] Trial 486 pruned. 
+[I 2024-05-07 15:13:39,490] Trial 487 pruned. 
+[I 2024-05-07 15:13:42,268] Trial 488 pruned. 
+[I 2024-05-07 15:14:02,413] Trial 489 finished with value: 0.6239222884178162 and parameters: {'fc_dropout': 0.5489131802192003, 'window_perc': 0.1001386985161377, 'Huber_delta': 1.0169339630809464, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:14:05,208] Trial 490 pruned. 
+[I 2024-05-07 15:14:25,346] Trial 491 finished with value: 0.6920678019523621 and parameters: {'fc_dropout': 0.5562485230586078, 'window_perc': 0.11245703575626283, 'Huber_delta': 1.0843162822936718, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:14:45,502] Trial 492 finished with value: 0.630771279335022 and parameters: {'fc_dropout': 0.5346596168524643, 'window_perc': 0.11153810598940474, 'Huber_delta': 1.021192448948468, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:14:48,288] Trial 493 pruned. 
+[I 2024-05-07 15:15:08,460] Trial 494 finished with value: 0.6381216645240784 and parameters: {'fc_dropout': 0.5298877881267098, 'window_perc': 0.10042476225018496, 'Huber_delta': 1.017935084330606, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:15:14,141] Trial 495 pruned. 
+[I 2024-05-07 15:15:19,827] Trial 496 pruned. 
+[I 2024-05-07 15:15:39,994] Trial 497 finished with value: 0.6379789710044861 and parameters: {'fc_dropout': 0.5800494280189198, 'window_perc': 0.10088943599312342, 'Huber_delta': 1.0180973772195605, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:15:52,174] Trial 498 pruned. 
+[I 2024-05-07 15:16:12,346] Trial 499 finished with value: 0.626732349395752 and parameters: {'fc_dropout': 0.5522650008343513, 'window_perc': 0.10942096070987646, 'Huber_delta': 1.0003271142847636, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:16:15,874] Trial 500 pruned. 
+[I 2024-05-07 15:16:28,073] Trial 501 pruned. 
+[I 2024-05-07 15:16:48,220] Trial 502 finished with value: 0.6443257927894592 and parameters: {'fc_dropout': 0.5692716609332051, 'window_perc': 0.10067487981337217, 'Huber_delta': 1.0244832144786635, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:16:51,016] Trial 503 pruned. 
+[I 2024-05-07 15:17:11,198] Trial 504 finished with value: 0.6864234209060669 and parameters: {'fc_dropout': 0.5684050981877368, 'window_perc': 0.12262854089960512, 'Huber_delta': 1.0175892533322561, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:17:31,380] Trial 505 finished with value: 0.6693634986877441 and parameters: {'fc_dropout': 0.5829727407465379, 'window_perc': 0.11307516469061693, 'Huber_delta': 1.001069626900017, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:17:51,530] Trial 506 finished with value: 0.7386378049850464 and parameters: {'fc_dropout': 0.27443464882664925, 'window_perc': 0.10242144506320928, 'Huber_delta': 1.0344904114850253, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:17:57,208] Trial 507 pruned. 
+[I 2024-05-07 15:18:00,009] Trial 508 pruned. 
+[I 2024-05-07 15:18:20,182] Trial 509 finished with value: 0.6558533310890198 and parameters: {'fc_dropout': 0.6151045773405759, 'window_perc': 0.12559756764819904, 'Huber_delta': 1.0396887839516868, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:18:40,385] Trial 510 finished with value: 0.625582754611969 and parameters: {'fc_dropout': 0.5591951101906214, 'window_perc': 0.10025460613822806, 'Huber_delta': 1.0006712651884933, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:18:46,098] Trial 511 pruned. 
+[I 2024-05-07 15:18:48,898] Trial 512 pruned. 
+[I 2024-05-07 15:18:51,696] Trial 513 pruned. 
+[I 2024-05-07 15:18:54,509] Trial 514 pruned. 
+[I 2024-05-07 15:19:00,210] Trial 515 pruned. 
+[I 2024-05-07 15:19:03,746] Trial 516 pruned. 
+[I 2024-05-07 15:19:07,318] Trial 517 pruned. 
+[I 2024-05-07 15:19:27,561] Trial 518 finished with value: 0.624850332736969 and parameters: {'fc_dropout': 0.5550457774972678, 'window_perc': 0.11472096485109311, 'Huber_delta': 1.0422402803481932, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:19:30,378] Trial 519 pruned. 
+[I 2024-05-07 15:19:50,658] Trial 520 finished with value: 0.6707993149757385 and parameters: {'fc_dropout': 0.5658396467707709, 'window_perc': 0.11659020237960795, 'Huber_delta': 1.0468006379505335, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:20:02,909] Trial 521 pruned. 
+[I 2024-05-07 15:20:23,162] Trial 522 finished with value: 0.6466866135597229 and parameters: {'fc_dropout': 0.5455592619014002, 'window_perc': 0.11494169337070569, 'Huber_delta': 1.0474129477636094, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:20:25,996] Trial 523 pruned. 
+[I 2024-05-07 15:20:28,835] Trial 524 pruned. 
+[I 2024-05-07 15:20:49,090] Trial 525 finished with value: 0.6590513586997986 and parameters: {'fc_dropout': 0.5764562025791611, 'window_perc': 0.10018963669679849, 'Huber_delta': 1.0209971324287512, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:21:01,332] Trial 526 pruned. 
+[I 2024-05-07 15:21:04,886] Trial 527 pruned. 
+[I 2024-05-07 15:21:08,432] Trial 528 pruned. 
+[I 2024-05-07 15:21:11,980] Trial 529 pruned. 
+[I 2024-05-07 15:21:24,218] Trial 530 pruned. 
+[I 2024-05-07 15:21:36,478] Trial 531 pruned. 
+[I 2024-05-07 15:21:56,723] Trial 532 finished with value: 0.6505037546157837 and parameters: {'fc_dropout': 0.5883398275413636, 'window_perc': 0.1384466581101806, 'Huber_delta': 1.0224319020393666, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:22:16,989] Trial 533 finished with value: 0.628241777420044 and parameters: {'fc_dropout': 0.5444337302184836, 'window_perc': 0.11185237858080212, 'Huber_delta': 1.0009671483537756, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:22:22,706] Trial 534 pruned. 
+[I 2024-05-07 15:22:28,421] Trial 535 pruned. 
+[I 2024-05-07 15:22:40,666] Trial 536 pruned. 
+[I 2024-05-07 15:22:43,471] Trial 537 pruned. 
+[I 2024-05-07 15:22:49,191] Trial 538 pruned. 
+[I 2024-05-07 15:23:09,473] Trial 539 finished with value: 0.6463397741317749 and parameters: {'fc_dropout': 0.5328445478946122, 'window_perc': 0.13116498925421188, 'Huber_delta': 1.0003494383230067, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:23:29,740] Trial 540 finished with value: 0.631952702999115 and parameters: {'fc_dropout': 0.5249694669995588, 'window_perc': 0.10012328161214797, 'Huber_delta': 1.002374090109303, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:23:50,014] Trial 541 finished with value: 0.7124112844467163 and parameters: {'fc_dropout': 0.5222784805982841, 'window_perc': 0.10118557394790398, 'Huber_delta': 1.0000532697058706, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:24:10,292] Trial 542 finished with value: 0.6729578971862793 and parameters: {'fc_dropout': 0.520648624347346, 'window_perc': 0.10107032550550875, 'Huber_delta': 1.0177664464681946, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:24:22,553] Trial 543 pruned. 
+[I 2024-05-07 15:24:42,824] Trial 544 finished with value: 0.6245890259742737 and parameters: {'fc_dropout': 0.534122906480371, 'window_perc': 0.11303447010031702, 'Huber_delta': 1.0028155517904025, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:24:55,082] Trial 545 pruned. 
+[I 2024-05-07 15:25:00,820] Trial 546 pruned. 
+[I 2024-05-07 15:25:03,645] Trial 547 pruned. 
+[I 2024-05-07 15:25:09,368] Trial 548 pruned. 
+[I 2024-05-07 15:25:12,935] Trial 549 pruned. 
+[I 2024-05-07 15:25:18,670] Trial 550 pruned. 
+[I 2024-05-07 15:25:38,949] Trial 551 finished with value: 0.6380837559700012 and parameters: {'fc_dropout': 0.5553909207089479, 'window_perc': 0.11314727786054381, 'Huber_delta': 1.0021003787248806, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:25:41,784] Trial 552 pruned. 
+[I 2024-05-07 15:25:44,624] Trial 553 pruned. 
+[I 2024-05-07 15:25:47,456] Trial 554 pruned. 
+[I 2024-05-07 15:25:53,202] Trial 555 pruned. 
+[I 2024-05-07 15:26:13,502] Trial 556 finished with value: 0.6735821962356567 and parameters: {'fc_dropout': 0.6005333770554928, 'window_perc': 0.12673898505474332, 'Huber_delta': 1.0205563062493321, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:26:33,690] Trial 557 finished with value: 0.6345895528793335 and parameters: {'fc_dropout': 0.5749943952319846, 'window_perc': 0.11501394374905184, 'Huber_delta': 1.0007958497452412, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:26:53,689] Trial 558 finished with value: 0.6411761045455933 and parameters: {'fc_dropout': 0.580338583093141, 'window_perc': 0.1002990093877819, 'Huber_delta': 1.000794978230446, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:26:59,318] Trial 559 pruned. 
+[I 2024-05-07 15:27:19,217] Trial 560 finished with value: 0.7046667337417603 and parameters: {'fc_dropout': 0.5082014969989945, 'window_perc': 0.11413258637134654, 'Huber_delta': 1.0035330440235717, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:27:22,033] Trial 561 pruned. 
+[I 2024-05-07 15:27:41,950] Trial 562 finished with value: 0.65763920545578 and parameters: {'fc_dropout': 0.582023102936959, 'window_perc': 0.1126814253897125, 'Huber_delta': 1.0019161222199737, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:28:01,879] Trial 563 finished with value: 0.6662870645523071 and parameters: {'fc_dropout': 0.5408725542473005, 'window_perc': 0.1427496029373747, 'Huber_delta': 1.0253962339368594, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:28:04,694] Trial 564 pruned. 
+[I 2024-05-07 15:28:24,619] Trial 565 finished with value: 0.6481359004974365 and parameters: {'fc_dropout': 0.5576149236282779, 'window_perc': 0.10093005826230804, 'Huber_delta': 1.0013088486129138, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:28:36,693] Trial 566 pruned. 
+[I 2024-05-07 15:28:56,642] Trial 567 finished with value: 0.6410150527954102 and parameters: {'fc_dropout': 0.5323814365839638, 'window_perc': 0.12446081053775289, 'Huber_delta': 1.0330245901238246, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:29:16,514] Trial 568 finished with value: 0.6322425007820129 and parameters: {'fc_dropout': 0.5493262501630226, 'window_perc': 0.11619626759096065, 'Huber_delta': 1.032199602727715, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:29:36,407] Trial 569 finished with value: 0.637446403503418 and parameters: {'fc_dropout': 0.535071472673732, 'window_perc': 0.11434020296861097, 'Huber_delta': 1.0000826729953778, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:29:42,046] Trial 570 pruned. 
+[I 2024-05-07 15:29:54,094] Trial 571 pruned. 
+[I 2024-05-07 15:30:06,142] Trial 572 pruned. 
+[I 2024-05-07 15:30:08,963] Trial 573 pruned. 
+[I 2024-05-07 15:30:21,020] Trial 574 pruned. 
+[I 2024-05-07 15:30:23,829] Trial 575 pruned. 
+[I 2024-05-07 15:30:29,484] Trial 576 pruned. 
+[I 2024-05-07 15:30:49,370] Trial 577 finished with value: 0.6344392895698547 and parameters: {'fc_dropout': 0.5303086499161234, 'window_perc': 0.10005125061743204, 'Huber_delta': 1.0184177253234041, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:31:09,285] Trial 578 finished with value: 0.6324586272239685 and parameters: {'fc_dropout': 0.523527317031879, 'window_perc': 0.10083048798159894, 'Huber_delta': 1.0005992655440734, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:31:29,175] Trial 579 finished with value: 0.6258134841918945 and parameters: {'fc_dropout': 0.5080286812679383, 'window_perc': 0.10009933534763907, 'Huber_delta': 1.0163282021477005, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:31:49,063] Trial 580 finished with value: 0.6241410970687866 and parameters: {'fc_dropout': 0.5077706863363998, 'window_perc': 0.10022064960676022, 'Huber_delta': 1.016050096255958, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:32:08,975] Trial 581 finished with value: 0.640072226524353 and parameters: {'fc_dropout': 0.5064726300430892, 'window_perc': 0.11208795580748149, 'Huber_delta': 1.016390919920049, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:32:28,903] Trial 582 finished with value: 0.6727108359336853 and parameters: {'fc_dropout': 0.4973612916825306, 'window_perc': 0.1017351978634232, 'Huber_delta': 1.0008755083151502, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:32:40,960] Trial 583 pruned. 
+[I 2024-05-07 15:32:53,033] Trial 584 pruned. 
+[I 2024-05-07 15:32:56,581] Trial 585 pruned. 
+[I 2024-05-07 15:33:16,524] Trial 586 finished with value: 0.6440631151199341 and parameters: {'fc_dropout': 0.5194153726774136, 'window_perc': 0.11360288921360805, 'Huber_delta': 1.0179564598251079, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:33:28,645] Trial 587 pruned. 
+[I 2024-05-07 15:33:48,622] Trial 588 finished with value: 0.6254803538322449 and parameters: {'fc_dropout': 0.503875228232929, 'window_perc': 0.1009011292012151, 'Huber_delta': 1.0000533664305695, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:33:52,175] Trial 589 pruned. 
+[I 2024-05-07 15:34:12,164] Trial 590 finished with value: 0.6568072438240051 and parameters: {'fc_dropout': 0.504585396549542, 'window_perc': 0.10054409242231, 'Huber_delta': 1.0004252111739027, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:34:24,305] Trial 591 pruned. 
+[I 2024-05-07 15:34:27,151] Trial 592 pruned. 
+[I 2024-05-07 15:34:30,001] Trial 593 pruned. 
+[I 2024-05-07 15:34:42,130] Trial 594 pruned. 
+[I 2024-05-07 15:35:02,163] Trial 595 finished with value: 0.6244530081748962 and parameters: {'fc_dropout': 0.5237217852202757, 'window_perc': 0.11315363946707331, 'Huber_delta': 1.000126602923647, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:35:22,187] Trial 596 finished with value: 0.6515330076217651 and parameters: {'fc_dropout': 0.5169625382228576, 'window_perc': 0.13505378954088165, 'Huber_delta': 1.0000073405454568, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:35:34,337] Trial 597 pruned. 
+[I 2024-05-07 15:35:54,407] Trial 598 finished with value: 0.6615774035453796 and parameters: {'fc_dropout': 0.5078061298350393, 'window_perc': 0.12499918952972022, 'Huber_delta': 1.0208903397207283, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:36:00,124] Trial 599 pruned. 
+[I 2024-05-07 15:36:02,978] Trial 600 pruned. 
+[I 2024-05-07 15:36:23,029] Trial 601 finished with value: 0.6549550890922546 and parameters: {'fc_dropout': 0.5073925977749238, 'window_perc': 0.10021978955153907, 'Huber_delta': 1.000342160872741, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:36:26,593] Trial 602 pruned. 
+[I 2024-05-07 15:36:32,317] Trial 603 pruned. 
+[I 2024-05-07 15:36:35,173] Trial 604 pruned. 
+[I 2024-05-07 15:36:47,344] Trial 605 pruned. 
+[I 2024-05-07 15:36:59,534] Trial 606 pruned. 
+[I 2024-05-07 15:37:03,115] Trial 607 pruned. 
+[I 2024-05-07 15:37:06,694] Trial 608 pruned. 
+[I 2024-05-07 15:37:18,906] Trial 609 pruned. 
+[I 2024-05-07 15:37:22,509] Trial 610 pruned. 
+[I 2024-05-07 15:37:26,102] Trial 611 pruned. 
+[I 2024-05-07 15:37:38,305] Trial 612 pruned. 
+[I 2024-05-07 15:37:41,913] Trial 613 pruned. 
+[I 2024-05-07 15:37:47,663] Trial 614 pruned. 
+[I 2024-05-07 15:38:07,814] Trial 615 finished with value: 0.6719441413879395 and parameters: {'fc_dropout': 0.5271792590690411, 'window_perc': 0.1002851480496138, 'Huber_delta': 1.0331623550379574, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:38:10,719] Trial 616 pruned. 
+[I 2024-05-07 15:38:22,952] Trial 617 pruned. 
+[I 2024-05-07 15:38:28,698] Trial 618 pruned. 
+[I 2024-05-07 15:38:31,566] Trial 619 pruned. 
+[I 2024-05-07 15:38:34,451] Trial 620 pruned. 
+[I 2024-05-07 15:38:46,692] Trial 621 pruned. 
+[I 2024-05-07 15:38:49,565] Trial 622 pruned. 
+[I 2024-05-07 15:38:55,334] Trial 623 pruned. 
+[I 2024-05-07 15:38:58,208] Trial 624 pruned. 
+[I 2024-05-07 15:39:01,824] Trial 625 pruned. 
+[I 2024-05-07 15:39:21,979] Trial 626 finished with value: 0.6489817500114441 and parameters: {'fc_dropout': 0.5160034694099971, 'window_perc': 0.12361752401973504, 'Huber_delta': 1.0184028033341277, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:39:25,576] Trial 627 pruned. 
+[I 2024-05-07 15:39:29,198] Trial 628 pruned. 
+[I 2024-05-07 15:39:32,087] Trial 629 pruned. 
+[I 2024-05-07 15:39:34,980] Trial 630 pruned. 
+[I 2024-05-07 15:39:38,604] Trial 631 pruned. 
+[I 2024-05-07 15:39:41,503] Trial 632 pruned. 
+[I 2024-05-07 15:39:53,762] Trial 633 pruned. 
+[I 2024-05-07 15:40:13,998] Trial 634 finished with value: 0.6331422924995422 and parameters: {'fc_dropout': 0.4721087844722984, 'window_perc': 0.10001966356861343, 'Huber_delta': 1.0007587554604849, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:40:26,277] Trial 635 pruned. 
+[I 2024-05-07 15:40:38,559] Trial 636 pruned. 
+[I 2024-05-07 15:40:58,750] Trial 637 finished with value: 0.6461002826690674 and parameters: {'fc_dropout': 0.49759374516038135, 'window_perc': 0.10045976185682685, 'Huber_delta': 1.000642280498735, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:41:19,053] Trial 638 finished with value: 0.6514683961868286 and parameters: {'fc_dropout': 0.4812100827085612, 'window_perc': 0.12608364291763877, 'Huber_delta': 1.0196425253924302, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:41:39,437] Trial 639 finished with value: 0.6525050401687622 and parameters: {'fc_dropout': 0.4704641798149774, 'window_perc': 0.10018537173187084, 'Huber_delta': 1.0012088571445672, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:41:51,816] Trial 640 pruned. 
+[I 2024-05-07 15:41:57,665] Trial 641 pruned. 
+[I 2024-05-07 15:42:10,028] Trial 642 pruned. 
+[I 2024-05-07 15:42:12,956] Trial 643 pruned. 
+[I 2024-05-07 15:42:16,626] Trial 644 pruned. 
+[I 2024-05-07 15:42:22,466] Trial 645 pruned. 
+[I 2024-05-07 15:42:25,414] Trial 646 pruned. 
+[I 2024-05-07 15:42:29,088] Trial 647 pruned. 
+[I 2024-05-07 15:42:32,010] Trial 648 pruned. 
+[I 2024-05-07 15:42:37,847] Trial 649 pruned. 
+[I 2024-05-07 15:42:50,232] Trial 650 pruned. 
+[I 2024-05-07 15:42:53,190] Trial 651 pruned. 
+[I 2024-05-07 15:42:56,128] Trial 652 pruned. 
+[I 2024-05-07 15:42:59,067] Trial 653 pruned. 
+[I 2024-05-07 15:43:02,747] Trial 654 pruned. 
+[I 2024-05-07 15:43:08,595] Trial 655 pruned. 
+[I 2024-05-07 15:43:20,991] Trial 656 pruned. 
+[I 2024-05-07 15:43:24,668] Trial 657 pruned. 
+[I 2024-05-07 15:43:28,353] Trial 658 pruned. 
+[I 2024-05-07 15:43:34,207] Trial 659 pruned. 
+[I 2024-05-07 15:43:37,893] Trial 660 pruned. 
+[I 2024-05-07 15:43:40,832] Trial 661 pruned. 
+[I 2024-05-07 15:43:53,230] Trial 662 pruned. 
+[I 2024-05-07 15:43:59,074] Trial 663 pruned. 
+[I 2024-05-07 15:44:04,937] Trial 664 pruned. 
+[I 2024-05-07 15:44:08,614] Trial 665 pruned. 
+[I 2024-05-07 15:44:14,472] Trial 666 pruned. 
+[I 2024-05-07 15:44:17,424] Trial 667 pruned. 
+[I 2024-05-07 15:44:20,389] Trial 668 pruned. 
+[I 2024-05-07 15:44:24,075] Trial 669 pruned. 
+[I 2024-05-07 15:44:44,535] Trial 670 finished with value: 0.6471665501594543 and parameters: {'fc_dropout': 0.5073208248224148, 'window_perc': 0.10029689480575738, 'Huber_delta': 1.0342802194946605, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:44:48,233] Trial 671 pruned. 
+[I 2024-05-07 15:44:54,087] Trial 672 pruned. 
+[I 2024-05-07 15:44:59,955] Trial 673 pruned. 
+[I 2024-05-07 15:45:03,641] Trial 674 pruned. 
+[I 2024-05-07 15:45:06,600] Trial 675 pruned. 
+[I 2024-05-07 15:45:12,473] Trial 676 pruned. 
+[I 2024-05-07 15:45:32,910] Trial 677 finished with value: 0.7316997051239014 and parameters: {'fc_dropout': 0.5020476730784967, 'window_perc': 0.11319238509948028, 'Huber_delta': 1.0196905772853926, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:45:35,888] Trial 678 pruned. 
+[I 2024-05-07 15:45:38,882] Trial 679 pruned. 
+[I 2024-05-07 15:45:41,829] Trial 680 pruned. 
+[I 2024-05-07 15:45:47,672] Trial 681 pruned. 
+[I 2024-05-07 15:46:00,046] Trial 682 pruned. 
+[I 2024-05-07 15:46:20,423] Trial 683 finished with value: 0.6536878943443298 and parameters: {'fc_dropout': 0.5212474123643974, 'window_perc': 0.10022437025915319, 'Huber_delta': 1.0189791573957672, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:46:23,380] Trial 684 pruned. 
+[I 2024-05-07 15:46:26,320] Trial 685 pruned. 
+[I 2024-05-07 15:46:29,993] Trial 686 pruned. 
+[I 2024-05-07 15:46:33,684] Trial 687 pruned. 
+[I 2024-05-07 15:46:46,057] Trial 688 pruned. 
+[I 2024-05-07 15:46:48,998] Trial 689 pruned. 
+[I 2024-05-07 15:46:54,868] Trial 690 pruned. 
+[I 2024-05-07 15:47:00,712] Trial 691 pruned. 
+[I 2024-05-07 15:47:04,394] Trial 692 pruned. 
+[I 2024-05-07 15:47:07,341] Trial 693 pruned. 
+[I 2024-05-07 15:47:27,703] Trial 694 finished with value: 0.6331700682640076 and parameters: {'fc_dropout': 0.5530946003890929, 'window_perc': 0.10037244282251193, 'Huber_delta': 1.0493160442832625, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:47:33,543] Trial 695 pruned. 
+[I 2024-05-07 15:47:53,922] Trial 696 finished with value: 0.707253634929657 and parameters: {'fc_dropout': 0.5267689538496493, 'window_perc': 0.1115205040577637, 'Huber_delta': 1.06383349434823, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:47:56,863] Trial 697 pruned. 
+[I 2024-05-07 15:48:02,800] Trial 698 pruned. 
+[I 2024-05-07 15:48:05,756] Trial 699 pruned. 
+[I 2024-05-07 15:48:09,438] Trial 700 pruned. 
+[I 2024-05-07 15:48:12,387] Trial 701 pruned. 
+[I 2024-05-07 15:48:24,690] Trial 702 pruned. 
+[I 2024-05-07 15:48:27,630] Trial 703 pruned. 
+[I 2024-05-07 15:48:39,947] Trial 704 pruned. 
+[I 2024-05-07 15:48:45,786] Trial 705 pruned. 
+[I 2024-05-07 15:48:51,619] Trial 706 pruned. 
+[I 2024-05-07 15:49:03,945] Trial 707 pruned. 
+[I 2024-05-07 15:49:24,187] Trial 708 finished with value: 0.6357958316802979 and parameters: {'fc_dropout': 0.5422329786831376, 'window_perc': 0.10026253272207662, 'Huber_delta': 1.0196512983810764, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:49:27,151] Trial 709 pruned. 
+[I 2024-05-07 15:49:32,969] Trial 710 pruned. 
+[I 2024-05-07 15:49:53,203] Trial 711 finished with value: 0.6342175006866455 and parameters: {'fc_dropout': 0.5399140352531406, 'window_perc': 0.11272364056869125, 'Huber_delta': 1.016483294476388, 'by_sample': False, 'by_var': True}. Best is trial 489 with value: 0.6239222884178162.
+[I 2024-05-07 15:49:59,041] Trial 712 pruned. 
+[I 2024-05-07 15:50:02,732] Trial 713 pruned. 
+[I 2024-05-07 15:50:06,448] Trial 714 pruned. 
+[I 2024-05-07 15:50:09,400] Trial 715 pruned. 
+[I 2024-05-07 15:50:29,672] Trial 716 finished with value: 0.6228630542755127 and parameters: {'fc_dropout': 0.5254908066381068, 'window_perc': 0.11237579921778948, 'Huber_delta': 1.0005345478591439, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:50:33,397] Trial 717 pruned. 
+[I 2024-05-07 15:50:37,098] Trial 718 pruned. 
+[I 2024-05-07 15:50:57,365] Trial 719 finished with value: 0.6366382837295532 and parameters: {'fc_dropout': 0.5068166663189065, 'window_perc': 0.1004050274815629, 'Huber_delta': 1.0309358452696042, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:51:01,052] Trial 720 pruned. 
+[I 2024-05-07 15:51:13,359] Trial 721 pruned. 
+[I 2024-05-07 15:51:19,220] Trial 722 pruned. 
+[I 2024-05-07 15:51:22,919] Trial 723 pruned. 
+[I 2024-05-07 15:51:43,207] Trial 724 finished with value: 0.6305336952209473 and parameters: {'fc_dropout': 0.5429116123670762, 'window_perc': 0.11295480484579994, 'Huber_delta': 1.0360863246643417, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:51:46,906] Trial 725 pruned. 
+[I 2024-05-07 15:51:52,774] Trial 726 pruned. 
+[I 2024-05-07 15:51:58,630] Trial 727 pruned. 
+[I 2024-05-07 15:52:01,624] Trial 728 pruned. 
+[I 2024-05-07 15:52:05,338] Trial 729 pruned. 
+[I 2024-05-07 15:52:09,049] Trial 730 pruned. 
+[I 2024-05-07 15:52:14,914] Trial 731 pruned. 
+[I 2024-05-07 15:52:18,620] Trial 732 pruned. 
+[I 2024-05-07 15:52:22,320] Trial 733 pruned. 
+[I 2024-05-07 15:52:28,185] Trial 734 pruned. 
+[I 2024-05-07 15:52:31,903] Trial 735 pruned. 
+[I 2024-05-07 15:52:35,644] Trial 736 pruned. 
+[I 2024-05-07 15:52:38,636] Trial 737 pruned. 
+[I 2024-05-07 15:52:41,623] Trial 738 pruned. 
+[I 2024-05-07 15:52:44,622] Trial 739 pruned. 
+[I 2024-05-07 15:52:47,601] Trial 740 pruned. 
+[I 2024-05-07 15:53:07,886] Trial 741 finished with value: 0.6641167998313904 and parameters: {'fc_dropout': 0.5368358051524229, 'window_perc': 0.14609003815723662, 'Huber_delta': 1.0001298714449476, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:53:11,608] Trial 742 pruned. 
+[I 2024-05-07 15:53:14,618] Trial 743 pruned. 
+[I 2024-05-07 15:53:17,613] Trial 744 pruned. 
+[I 2024-05-07 15:53:29,972] Trial 745 pruned. 
+[I 2024-05-07 15:53:42,311] Trial 746 pruned. 
+[I 2024-05-07 15:53:46,031] Trial 747 pruned. 
+[I 2024-05-07 15:53:49,739] Trial 748 pruned. 
+[I 2024-05-07 15:53:53,476] Trial 749 pruned. 
+[I 2024-05-07 15:53:57,206] Trial 750 pruned. 
+[I 2024-05-07 15:54:00,930] Trial 751 pruned. 
+[I 2024-05-07 15:54:04,650] Trial 752 pruned. 
+[I 2024-05-07 15:54:10,544] Trial 753 pruned. 
+[I 2024-05-07 15:54:13,536] Trial 754 pruned. 
+[I 2024-05-07 15:54:16,573] Trial 755 pruned. 
+[I 2024-05-07 15:54:28,939] Trial 756 pruned. 
+[I 2024-05-07 15:54:34,828] Trial 757 pruned. 
+[I 2024-05-07 15:54:38,553] Trial 758 pruned. 
+[I 2024-05-07 15:54:50,924] Trial 759 pruned. 
+[I 2024-05-07 15:54:54,653] Trial 760 pruned. 
+[I 2024-05-07 15:55:00,555] Trial 761 pruned. 
+[I 2024-05-07 15:55:04,288] Trial 762 pruned. 
+[I 2024-05-07 15:55:07,314] Trial 763 pruned. 
+[I 2024-05-07 15:55:10,313] Trial 764 pruned. 
+[I 2024-05-07 15:55:22,680] Trial 765 pruned. 
+[I 2024-05-07 15:55:28,567] Trial 766 pruned. 
+[I 2024-05-07 15:55:48,879] Trial 767 finished with value: 0.6691261529922485 and parameters: {'fc_dropout': 0.4993990432374047, 'window_perc': 0.11219859807858806, 'Huber_delta': 1.0177913348860843, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:56:01,253] Trial 768 pruned. 
+[I 2024-05-07 15:56:07,153] Trial 769 pruned. 
+[I 2024-05-07 15:56:19,523] Trial 770 pruned. 
+[I 2024-05-07 15:56:23,263] Trial 771 pruned. 
+[I 2024-05-07 15:56:29,156] Trial 772 pruned. 
+[I 2024-05-07 15:56:32,179] Trial 773 pruned. 
+[I 2024-05-07 15:56:35,235] Trial 774 pruned. 
+[I 2024-05-07 15:56:55,565] Trial 775 finished with value: 0.6608194708824158 and parameters: {'fc_dropout': 0.5240587266299989, 'window_perc': 0.1001792678077975, 'Huber_delta': 1.0002666250697734, 'by_sample': False, 'by_var': False}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:56:59,307] Trial 776 pruned. 
+[I 2024-05-07 15:57:03,037] Trial 777 pruned. 
+[I 2024-05-07 15:57:06,063] Trial 778 pruned. 
+[I 2024-05-07 15:57:26,399] Trial 779 finished with value: 0.6404485702514648 and parameters: {'fc_dropout': 0.5377153521642533, 'window_perc': 0.13568360683685, 'Huber_delta': 1.000098771081034, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:57:46,725] Trial 780 finished with value: 0.6511516571044922 and parameters: {'fc_dropout': 0.5092462767391106, 'window_perc': 0.12113982496857832, 'Huber_delta': 1.0483061836010672, 'by_sample': False, 'by_var': True}. Best is trial 716 with value: 0.6228630542755127.
+[I 2024-05-07 15:57:50,477] Trial 781 pruned. 
+[I 2024-05-07 15:57:53,504] Trial 782 pruned. 
+[I 2024-05-07 15:57:57,252] Trial 783 pruned. 
+[I 2024-05-07 15:58:00,286] Trial 784 pruned. 
+[I 2024-05-07 15:58:12,677] Trial 785 pruned. 
+[I 2024-05-07 15:58:15,714] Trial 786 pruned. 
+[I 2024-05-07 15:58:19,469] Trial 787 pruned. 
+[I 2024-05-07 15:58:25,385] Trial 788 pruned. 
+[I 2024-05-07 15:58:29,141] Trial 789 pruned. 
+[I 2024-05-07 15:58:32,195] Trial 790 pruned. 
+[I 2024-05-07 15:58:35,231] Trial 791 pruned. 
+[I 2024-05-07 15:58:38,989] Trial 792 pruned. 
+[I 2024-05-07 15:58:42,075] Trial 793 pruned. 
+[I 2024-05-07 15:58:54,496] Trial 794 pruned. 
+[I 2024-05-07 15:59:00,423] Trial 795 pruned. 
+[I 2024-05-07 15:59:04,190] Trial 796 pruned. 
+[I 2024-05-07 15:59:10,118] Trial 797 pruned. 
+[I 2024-05-07 15:59:16,028] Trial 798 pruned. 
+[I 2024-05-07 15:59:19,072] Trial 799 pruned. 
+[I 2024-05-07 15:59:22,121] Trial 800 pruned. 
+[I 2024-05-07 15:59:34,549] Trial 801 pruned. 
+[I 2024-05-07 15:59:37,587] Trial 802 pruned. 
+[I 2024-05-07 15:59:43,503] Trial 803 pruned. 
+[I 2024-05-07 15:59:46,542] Trial 804 pruned. 
+[I 2024-05-07 16:00:06,893] Trial 805 finished with value: 0.6199465990066528 and parameters: {'fc_dropout': 0.5650979326046993, 'window_perc': 0.11299774392884272, 'Huber_delta': 1.0010581153718965, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:00:09,950] Trial 806 pruned. 
+[I 2024-05-07 16:00:13,015] Trial 807 pruned. 
+[I 2024-05-07 16:00:16,059] Trial 808 pruned. 
+[I 2024-05-07 16:00:28,483] Trial 809 pruned. 
+[I 2024-05-07 16:00:31,550] Trial 810 pruned. 
+[I 2024-05-07 16:00:35,351] Trial 811 pruned. 
+[I 2024-05-07 16:00:38,450] Trial 812 pruned. 
+[I 2024-05-07 16:00:41,525] Trial 813 pruned. 
+[I 2024-05-07 16:00:47,461] Trial 814 pruned. 
+[I 2024-05-07 16:00:51,240] Trial 815 pruned. 
+[I 2024-05-07 16:01:11,588] Trial 816 finished with value: 0.6225469708442688 and parameters: {'fc_dropout': 0.5135118287677112, 'window_perc': 0.10019400447270527, 'Huber_delta': 1.000116654692231, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:01:17,535] Trial 817 pruned. 
+[I 2024-05-07 16:01:29,956] Trial 818 pruned. 
+[I 2024-05-07 16:01:42,376] Trial 819 pruned. 
+[I 2024-05-07 16:01:46,173] Trial 820 pruned. 
+[I 2024-05-07 16:02:06,561] Trial 821 finished with value: 0.6341628432273865 and parameters: {'fc_dropout': 0.5135199912654317, 'window_perc': 0.12455217700730167, 'Huber_delta': 1.0180462495182567, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:02:09,627] Trial 822 pruned. 
+[I 2024-05-07 16:02:12,692] Trial 823 pruned. 
+[I 2024-05-07 16:02:25,174] Trial 824 pruned. 
+[I 2024-05-07 16:02:29,002] Trial 825 pruned. 
+[I 2024-05-07 16:02:32,825] Trial 826 pruned. 
+[I 2024-05-07 16:02:35,937] Trial 827 pruned. 
+[I 2024-05-07 16:02:48,452] Trial 828 pruned. 
+[I 2024-05-07 16:02:51,543] Trial 829 pruned. 
+[I 2024-05-07 16:02:55,367] Trial 830 pruned. 
+[I 2024-05-07 16:03:07,891] Trial 831 pruned. 
+[I 2024-05-07 16:03:11,733] Trial 832 pruned. 
+[I 2024-05-07 16:03:14,872] Trial 833 pruned. 
+[I 2024-05-07 16:03:27,415] Trial 834 pruned. 
+[I 2024-05-07 16:03:31,260] Trial 835 pruned. 
+[I 2024-05-07 16:03:43,772] Trial 836 pruned. 
+[I 2024-05-07 16:03:56,301] Trial 837 pruned. 
+[I 2024-05-07 16:03:59,414] Trial 838 pruned. 
+[I 2024-05-07 16:04:03,250] Trial 839 pruned. 
+[I 2024-05-07 16:04:06,400] Trial 840 pruned. 
+[I 2024-05-07 16:04:10,242] Trial 841 pruned. 
+[I 2024-05-07 16:04:16,260] Trial 842 pruned. 
+[I 2024-05-07 16:04:22,276] Trial 843 pruned. 
+[I 2024-05-07 16:04:26,132] Trial 844 pruned. 
+[I 2024-05-07 16:04:32,151] Trial 845 pruned. 
+[I 2024-05-07 16:04:35,261] Trial 846 pruned. 
+[I 2024-05-07 16:04:47,817] Trial 847 pruned. 
+[I 2024-05-07 16:05:08,354] Trial 848 finished with value: 0.6488932967185974 and parameters: {'fc_dropout': 0.5452135563025269, 'window_perc': 0.10052133783207223, 'Huber_delta': 1.0319995035360896, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:05:12,195] Trial 849 pruned. 
+[I 2024-05-07 16:05:15,364] Trial 850 pruned. 
+[I 2024-05-07 16:05:27,939] Trial 851 pruned. 
+[I 2024-05-07 16:05:40,525] Trial 852 pruned. 
+[I 2024-05-07 16:06:01,126] Trial 853 finished with value: 0.639125645160675 and parameters: {'fc_dropout': 0.5243715986400233, 'window_perc': 0.10028714838261862, 'Huber_delta': 1.0246253201552729, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:06:04,266] Trial 854 pruned. 
+[I 2024-05-07 16:06:08,123] Trial 855 pruned. 
+[I 2024-05-07 16:06:14,160] Trial 856 pruned. 
+[I 2024-05-07 16:06:17,308] Trial 857 pruned. 
+[I 2024-05-07 16:06:29,869] Trial 858 pruned. 
+[I 2024-05-07 16:06:33,733] Trial 859 pruned. 
+[I 2024-05-07 16:06:37,595] Trial 860 pruned. 
+[I 2024-05-07 16:06:58,204] Trial 861 finished with value: 0.6589440107345581 and parameters: {'fc_dropout': 0.5372189391174887, 'window_perc': 0.1260984765306572, 'Huber_delta': 1.0574942013625914, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:07:01,328] Trial 862 pruned. 
+[I 2024-05-07 16:07:13,910] Trial 863 pruned. 
+[I 2024-05-07 16:07:34,535] Trial 864 finished with value: 0.6926110982894897 and parameters: {'fc_dropout': 0.5256838012066967, 'window_perc': 0.11477535489568003, 'Huber_delta': 1.018765905398575, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:07:40,573] Trial 865 pruned. 
+[I 2024-05-07 16:07:44,450] Trial 866 pruned. 
+[I 2024-05-07 16:07:57,035] Trial 867 pruned. 
+[I 2024-05-07 16:08:03,079] Trial 868 pruned. 
+[I 2024-05-07 16:08:06,200] Trial 869 pruned. 
+[I 2024-05-07 16:08:09,351] Trial 870 pruned. 
+[I 2024-05-07 16:08:13,209] Trial 871 pruned. 
+[I 2024-05-07 16:08:16,320] Trial 872 pruned. 
+[I 2024-05-07 16:08:20,184] Trial 873 pruned. 
+[I 2024-05-07 16:08:24,037] Trial 874 pruned. 
+[I 2024-05-07 16:08:36,588] Trial 875 pruned. 
+[I 2024-05-07 16:08:40,449] Trial 876 pruned. 
+[I 2024-05-07 16:08:44,306] Trial 877 pruned. 
+[I 2024-05-07 16:08:48,183] Trial 878 pruned. 
+[I 2024-05-07 16:08:52,047] Trial 879 pruned. 
+[I 2024-05-07 16:08:55,201] Trial 880 pruned. 
+[I 2024-05-07 16:08:59,077] Trial 881 pruned. 
+[I 2024-05-07 16:09:11,642] Trial 882 pruned. 
+[I 2024-05-07 16:09:14,787] Trial 883 pruned. 
+[I 2024-05-07 16:09:20,838] Trial 884 pruned. 
+[I 2024-05-07 16:09:23,982] Trial 885 pruned. 
+[I 2024-05-07 16:09:27,854] Trial 886 pruned. 
+[I 2024-05-07 16:09:31,725] Trial 887 pruned. 
+[I 2024-05-07 16:09:35,636] Trial 888 pruned. 
+[I 2024-05-07 16:09:39,516] Trial 889 pruned. 
+[I 2024-05-07 16:09:43,383] Trial 890 pruned. 
+[I 2024-05-07 16:09:46,537] Trial 891 pruned. 
+[I 2024-05-07 16:09:50,421] Trial 892 pruned. 
+[I 2024-05-07 16:09:53,592] Trial 893 pruned. 
+[I 2024-05-07 16:09:57,475] Trial 894 pruned. 
+[I 2024-05-07 16:10:03,533] Trial 895 pruned. 
+[I 2024-05-07 16:10:24,107] Trial 896 finished with value: 0.6360806226730347 and parameters: {'fc_dropout': 0.50622859972318, 'window_perc': 0.1122084491495236, 'Huber_delta': 1.000314509340977, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:10:27,982] Trial 897 pruned. 
+[I 2024-05-07 16:10:48,503] Trial 898 finished with value: 0.6534202694892883 and parameters: {'fc_dropout': 0.4955464585336507, 'window_perc': 0.10008283952255875, 'Huber_delta': 1.035132455699348, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:11:01,047] Trial 899 pruned. 
+[I 2024-05-07 16:11:04,209] Trial 900 pruned. 
+[I 2024-05-07 16:11:16,779] Trial 901 pruned. 
+[I 2024-05-07 16:11:22,853] Trial 902 pruned. 
+[I 2024-05-07 16:11:28,934] Trial 903 pruned. 
+[I 2024-05-07 16:11:32,119] Trial 904 pruned. 
+[I 2024-05-07 16:11:52,685] Trial 905 finished with value: 0.6787347793579102 and parameters: {'fc_dropout': 0.5091966743367987, 'window_perc': 0.11177611152680395, 'Huber_delta': 1.0170705229643742, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:11:55,926] Trial 906 pruned. 
+[I 2024-05-07 16:11:59,838] Trial 907 pruned. 
+[I 2024-05-07 16:12:03,764] Trial 908 pruned. 
+[I 2024-05-07 16:12:09,851] Trial 909 pruned. 
+[I 2024-05-07 16:12:15,931] Trial 910 pruned. 
+[I 2024-05-07 16:12:28,534] Trial 911 pruned. 
+[I 2024-05-07 16:12:31,731] Trial 912 pruned. 
+[I 2024-05-07 16:12:34,929] Trial 913 pruned. 
+[I 2024-05-07 16:12:38,848] Trial 914 pruned. 
+[I 2024-05-07 16:12:59,409] Trial 915 finished with value: 0.6666979789733887 and parameters: {'fc_dropout': 0.5885890496984126, 'window_perc': 0.10019203973715526, 'Huber_delta': 1.0351153005430713, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:13:02,611] Trial 916 pruned. 
+[I 2024-05-07 16:13:05,817] Trial 917 pruned. 
+[I 2024-05-07 16:13:26,411] Trial 918 finished with value: 0.6447674632072449 and parameters: {'fc_dropout': 0.557984142728369, 'window_perc': 0.11163461905445116, 'Huber_delta': 1.0332650573736983, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:13:32,520] Trial 919 pruned. 
+[I 2024-05-07 16:13:45,112] Trial 920 pruned. 
+[I 2024-05-07 16:13:57,730] Trial 921 pruned. 
+[I 2024-05-07 16:14:00,943] Trial 922 pruned. 
+[I 2024-05-07 16:14:21,543] Trial 923 finished with value: 0.6573509573936462 and parameters: {'fc_dropout': 0.49060762358735427, 'window_perc': 0.10046434512593758, 'Huber_delta': 1.0188652875570379, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:14:24,752] Trial 924 pruned. 
+[I 2024-05-07 16:14:28,010] Trial 925 pruned. 
+[I 2024-05-07 16:14:31,937] Trial 926 pruned. 
+[I 2024-05-07 16:14:44,545] Trial 927 pruned. 
+[I 2024-05-07 16:14:57,141] Trial 928 pruned. 
+[I 2024-05-07 16:15:00,361] Trial 929 pruned. 
+[I 2024-05-07 16:15:04,310] Trial 930 pruned. 
+[I 2024-05-07 16:15:24,973] Trial 931 finished with value: 0.6256211400032043 and parameters: {'fc_dropout': 0.523169433738327, 'window_perc': 0.6959947121477023, 'Huber_delta': 1.0001610144867783, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:15:28,919] Trial 932 pruned. 
+[I 2024-05-07 16:15:35,059] Trial 933 pruned. 
+[I 2024-05-07 16:15:38,309] Trial 934 pruned. 
+[I 2024-05-07 16:15:51,027] Trial 935 pruned. 
+[I 2024-05-07 16:15:54,274] Trial 936 pruned. 
+[I 2024-05-07 16:15:58,244] Trial 937 pruned. 
+[I 2024-05-07 16:16:01,480] Trial 938 pruned. 
+[I 2024-05-07 16:16:14,179] Trial 939 pruned. 
+[I 2024-05-07 16:16:18,173] Trial 940 pruned. 
+[I 2024-05-07 16:16:21,426] Trial 941 pruned. 
+[I 2024-05-07 16:16:24,677] Trial 942 pruned. 
+[I 2024-05-07 16:16:27,945] Trial 943 pruned. 
+[I 2024-05-07 16:16:34,226] Trial 944 pruned. 
+[I 2024-05-07 16:16:37,494] Trial 945 pruned. 
+[I 2024-05-07 16:16:40,753] Trial 946 pruned. 
+[I 2024-05-07 16:17:01,511] Trial 947 finished with value: 0.6475645303726196 and parameters: {'fc_dropout': 0.5246931369799868, 'window_perc': 0.10085700062619671, 'Huber_delta': 1.03873745182893, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:17:04,796] Trial 948 pruned. 
+[I 2024-05-07 16:17:08,062] Trial 949 pruned. 
+[I 2024-05-07 16:17:11,353] Trial 950 pruned. 
+[I 2024-05-07 16:17:14,643] Trial 951 pruned. 
+[I 2024-05-07 16:17:27,407] Trial 952 pruned. 
+[I 2024-05-07 16:17:33,613] Trial 953 pruned. 
+[I 2024-05-07 16:17:46,401] Trial 954 pruned. 
+[I 2024-05-07 16:17:49,704] Trial 955 pruned. 
+[I 2024-05-07 16:17:53,001] Trial 956 pruned. 
+[I 2024-05-07 16:17:57,027] Trial 957 pruned. 
+[I 2024-05-07 16:18:17,875] Trial 958 finished with value: 0.673597514629364 and parameters: {'fc_dropout': 0.5016850115718872, 'window_perc': 0.10056620208926752, 'Huber_delta': 1.090774346518174, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:18:30,654] Trial 959 pruned. 
+[I 2024-05-07 16:18:34,688] Trial 960 pruned. 
+[I 2024-05-07 16:18:55,496] Trial 961 finished with value: 0.6403920650482178 and parameters: {'fc_dropout': 0.5435613054916262, 'window_perc': 0.11163498258852775, 'Huber_delta': 1.038083581410141, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:18:59,532] Trial 962 pruned. 
+[I 2024-05-07 16:19:02,862] Trial 963 pruned. 
+[I 2024-05-07 16:19:23,667] Trial 964 finished with value: 0.6782666444778442 and parameters: {'fc_dropout': 0.5132421983423295, 'window_perc': 0.11191338891059688, 'Huber_delta': 1.0001050093151076, 'by_sample': False, 'by_var': False}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:19:26,977] Trial 965 pruned. 
+[I 2024-05-07 16:19:39,763] Trial 966 pruned. 
+[I 2024-05-07 16:19:43,783] Trial 967 pruned. 
+[I 2024-05-07 16:19:47,828] Trial 968 pruned. 
+[I 2024-05-07 16:19:51,878] Trial 969 pruned. 
+[I 2024-05-07 16:19:55,916] Trial 970 pruned. 
+[I 2024-05-07 16:20:16,764] Trial 971 finished with value: 0.6377110481262207 and parameters: {'fc_dropout': 0.5424505791429697, 'window_perc': 0.13725801647072633, 'Huber_delta': 1.000338543419828, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:20:20,072] Trial 972 pruned. 
+[I 2024-05-07 16:20:32,864] Trial 973 pruned. 
+[I 2024-05-07 16:20:39,081] Trial 974 pruned. 
+[I 2024-05-07 16:20:43,118] Trial 975 pruned. 
+[I 2024-05-07 16:21:03,966] Trial 976 finished with value: 0.6517068147659302 and parameters: {'fc_dropout': 0.6002454797675729, 'window_perc': 0.13460262160778258, 'Huber_delta': 1.0179916079342086, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:21:07,287] Trial 977 pruned. 
+[I 2024-05-07 16:21:28,117] Trial 978 finished with value: 0.6443197131156921 and parameters: {'fc_dropout': 0.5576099120362908, 'window_perc': 0.11330969401146199, 'Huber_delta': 1.0000965625780514, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:21:32,180] Trial 979 pruned. 
+[I 2024-05-07 16:21:36,229] Trial 980 pruned. 
+[I 2024-05-07 16:21:39,555] Trial 981 pruned. 
+[I 2024-05-07 16:21:45,908] Trial 982 pruned. 
+[I 2024-05-07 16:21:49,947] Trial 983 pruned. 
+[I 2024-05-07 16:21:53,284] Trial 984 pruned. 
+[I 2024-05-07 16:21:56,622] Trial 985 pruned. 
+[I 2024-05-07 16:22:09,427] Trial 986 pruned. 
+[I 2024-05-07 16:22:22,238] Trial 987 pruned. 
+[I 2024-05-07 16:22:25,569] Trial 988 pruned. 
+[I 2024-05-07 16:22:28,887] Trial 989 pruned. 
+[I 2024-05-07 16:22:32,225] Trial 990 pruned. 
+[I 2024-05-07 16:22:35,557] Trial 991 pruned. 
+[I 2024-05-07 16:22:38,881] Trial 992 pruned. 
+[I 2024-05-07 16:22:45,140] Trial 993 pruned. 
+[I 2024-05-07 16:22:51,400] Trial 994 pruned. 
+[I 2024-05-07 16:23:04,232] Trial 995 pruned. 
+[I 2024-05-07 16:23:07,566] Trial 996 pruned. 
+[I 2024-05-07 16:23:11,653] Trial 997 pruned. 
+[I 2024-05-07 16:23:32,533] Trial 998 finished with value: 0.6826160550117493 and parameters: {'fc_dropout': 0.48445460006640173, 'window_perc': 0.11293964713657348, 'Huber_delta': 1.0175733078219786, 'by_sample': False, 'by_var': True}. Best is trial 805 with value: 0.6199465990066528.
+[I 2024-05-07 16:23:36,587] Trial 999 pruned. 
+
+Optuna study saved to optuna/no-name-06501bba-f565-4691-b245-c4b4a3860ca6.pkl
+To reload the study run: study = joblib.load('optuna/no-name-06501bba-f565-4691-b245-c4b4a3860ca6.pkl')
+
+Study statistics    : 
+  Study name        : no-name-06501bba-f565-4691-b245-c4b4a3860ca6
+  # finished trials : 1000
+  # pruned trials   : 824
+  # complete trials : 176
+
+Best trial          :
+  value             : 0.6199465990066528
+  best_params = {'fc_dropout': 0.5650979326046993, 'window_perc': 0.11299774392884272, 'Huber_delta': 1.0010581153718965, 'by_sample': False, 'by_var': True}
+
