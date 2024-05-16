@@ -1,0 +1,464 @@
+[I 2024-05-16 10:07:26,099] Trial 0 finished with value: 1.475045084953308 and parameters: {'nf': 36, 'fc_dropout': 0.36016224672107905, 'ks': 10, 'conv_dropout': 0.15116628631591988, 'sa': True, 'se': False, 'learning_rate_model': 0.00015498955191377127}. Best is trial 0 with value: 1.475045084953308.
+[I 2024-05-16 10:12:58,896] Trial 1 finished with value: 1.603980541229248 and parameters: {'nf': 42, 'fc_dropout': 0.2095972572016474, 'ks': 38, 'conv_dropout': 0.10222612486575872, 'sa': True, 'se': True, 'learning_rate_model': 0.00047431786810463216}. Best is trial 0 with value: 1.475045084953308.
+[I 2024-05-16 10:16:50,364] Trial 2 finished with value: 1.908485770225525 and parameters: {'nf': 22, 'fc_dropout': 0.0990507445424394, 'ks': 42, 'conv_dropout': 0.48413078785969876, 'sa': False, 'se': False, 'learning_rate_model': 1.7994203765849863e-05}. Best is trial 0 with value: 1.475045084953308.
+[I 2024-05-16 10:20:39,209] Trial 3 finished with value: 1.4732046127319336 and parameters: {'nf': 17, 'fc_dropout': 0.08491520978228445, 'ks': 46, 'conv_dropout': 0.04917341691652505, 'sa': False, 'se': False, 'learning_rate_model': 8.841926348917726e-05}. Best is trial 3 with value: 1.4732046127319336.
+[I 2024-05-16 10:25:03,803] Trial 4 finished with value: 1.4514039754867554 and parameters: {'nf': 49, 'fc_dropout': 0.41731283594868646, 'ks': 10, 'conv_dropout': 0.37507215747248374, 'sa': True, 'se': False, 'learning_rate_model': 2.0402247877617882e-05}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:26:11,317] Trial 5 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 113.
+[I 2024-05-16 10:30:01,106] Trial 6 finished with value: 1.558464765548706 and parameters: {'nf': 40, 'fc_dropout': 0.026681272558540192, 'ks': 33, 'conv_dropout': 0.07336428745290507, 'sa': False, 'se': False, 'learning_rate_model': 0.0012111570825917512}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:30:01,773] Trial 7 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:35:26,463] Trial 8 finished with value: 1.5682530403137207 and parameters: {'nf': 22, 'fc_dropout': 0.4036956443547619, 'ks': 26, 'conv_dropout': 0.08267709855846639, 'sa': True, 'se': True, 'learning_rate_model': 0.004465995422700483}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:35:27,360] Trial 9 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:35:28,213] Trial 10 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:40:24,606] Trial 11 finished with value: 1.576900839805603 and parameters: {'nf': 46, 'fc_dropout': 0.16332245088604808, 'ks': 31, 'conv_dropout': 0.44297104965538725, 'sa': False, 'se': True, 'learning_rate_model': 0.006142026716955347}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:44:54,946] Trial 12 finished with value: 1.531843900680542 and parameters: {'nf': 49, 'fc_dropout': 0.49866142522574025, 'ks': 17, 'conv_dropout': 0.06856787481443888, 'sa': True, 'se': False, 'learning_rate_model': 0.0018265373839075122}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:44:55,753] Trial 13 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:47,803] Trial 14 finished with value: 1.5418225526809692 and parameters: {'nf': 43, 'fc_dropout': 0.42101544617980285, 'ks': 15, 'conv_dropout': 0.13959183950556975, 'sa': False, 'se': True, 'learning_rate_model': 0.002522888272902661}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:49:48,683] Trial 15 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:49,422] Trial 16 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:50,214] Trial 17 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:50,982] Trial 18 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:51,896] Trial 19 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:52,567] Trial 20 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:53,352] Trial 21 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:54,575] Trial 22 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 10:49:55,311] Trial 23 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:55,965] Trial 24 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:56,745] Trial 25 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:49:57,405] Trial 26 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:54:59,579] Trial 27 finished with value: 1.5552308559417725 and parameters: {'nf': 25, 'fc_dropout': 0.39396461691275214, 'ks': 35, 'conv_dropout': 0.026954636036876478, 'sa': False, 'se': True, 'learning_rate_model': 0.008516819576644913}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:55:00,301] Trial 28 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:01,130] Trial 29 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:01,897] Trial 30 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:03,435] Trial 31 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 10:55:04,336] Trial 32 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:05,254] Trial 33 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:06,150] Trial 34 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:07,023] Trial 35 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:55:07,721] Trial 36 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 10:59:45,719] Trial 37 finished with value: 1.5255117416381836 and parameters: {'nf': 41, 'fc_dropout': 0.39264801411080946, 'ks': 10, 'conv_dropout': 0.16218122986309325, 'sa': True, 'se': False, 'learning_rate_model': 0.007069976562177946}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 10:59:46,648] Trial 38 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:03:53,690] Trial 39 finished with value: 1.5869152545928955 and parameters: {'nf': 51, 'fc_dropout': 0.12984919664917655, 'ks': 20, 'conv_dropout': 0.3161516587150639, 'sa': False, 'se': False, 'learning_rate_model': 0.009363007060318838}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:03:54,600] Trial 40 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:03:55,329] Trial 41 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:08:42,883] Trial 42 finished with value: 1.5215169191360474 and parameters: {'nf': 49, 'fc_dropout': 0.09431840047765544, 'ks': 28, 'conv_dropout': 0.2907887036721456, 'sa': True, 'se': False, 'learning_rate_model': 0.001780398582727967}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:13:28,285] Trial 43 finished with value: 1.5466333627700806 and parameters: {'nf': 38, 'fc_dropout': 0.028464719205547495, 'ks': 30, 'conv_dropout': 0.10598008232183798, 'sa': True, 'se': False, 'learning_rate_model': 0.0034003317200374315}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:13:29,057] Trial 44 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:29,821] Trial 45 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:30,736] Trial 46 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:31,577] Trial 47 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:32,481] Trial 48 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:33,425] Trial 49 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:34,224] Trial 50 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:34,927] Trial 51 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:35,726] Trial 52 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:36,656] Trial 53 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:37,468] Trial 54 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:38,249] Trial 55 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:39,179] Trial 56 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:13:39,987] Trial 57 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:19:39,076] Trial 58 finished with value: 1.5626271963119507 and parameters: {'nf': 63, 'fc_dropout': 0.45078129233466063, 'ks': 34, 'conv_dropout': 0.016213162657228553, 'sa': True, 'se': True, 'learning_rate_model': 0.008434320555219475}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:19:39,889] Trial 59 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:26,160] Trial 60 finished with value: 1.611655592918396 and parameters: {'nf': 40, 'fc_dropout': 0.36504560554505217, 'ks': 29, 'conv_dropout': 0.22870245804471584, 'sa': True, 'se': True, 'learning_rate_model': 0.008977395336522255}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:25:26,951] Trial 61 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:27,711] Trial 62 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:28,503] Trial 63 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:29,398] Trial 64 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:30,143] Trial 65 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:30,804] Trial 66 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:31,659] Trial 67 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:32,489] Trial 68 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:33,301] Trial 69 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:34,157] Trial 70 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:34,892] Trial 71 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:35,759] Trial 72 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:36,606] Trial 73 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:37,384] Trial 74 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:38,136] Trial 75 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:38,825] Trial 76 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:39,703] Trial 77 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:40,461] Trial 78 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:41,147] Trial 79 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:42,024] Trial 80 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:25:42,727] Trial 81 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:03,174] Trial 82 finished with value: 1.5381799936294556 and parameters: {'nf': 57, 'fc_dropout': 0.003966438097261549, 'ks': 50, 'conv_dropout': 0.038857285166193245, 'sa': False, 'se': False, 'learning_rate_model': 0.0038338482173888174}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:30:05,162] Trial 83 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 2.
+[I 2024-05-16 11:30:05,974] Trial 84 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:06,678] Trial 85 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:07,471] Trial 86 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:08,368] Trial 87 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:09,064] Trial 88 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:09,824] Trial 89 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:10,694] Trial 90 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:11,518] Trial 91 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:12,287] Trial 92 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:13,165] Trial 93 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:14,056] Trial 94 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:14,960] Trial 95 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:15,676] Trial 96 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:16,481] Trial 97 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:17,444] Trial 98 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:18,147] Trial 99 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:30:19,834] Trial 100 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 2.
+[I 2024-05-16 11:30:20,596] Trial 101 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:34:44,428] Trial 102 finished with value: 1.5391290187835693 and parameters: {'nf': 42, 'fc_dropout': 0.015526131439936036, 'ks': 12, 'conv_dropout': 0.03519724805299257, 'sa': False, 'se': False, 'learning_rate_model': 0.006872213131260022}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:34:46,615] Trial 103 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 3.
+[I 2024-05-16 11:34:48,776] Trial 104 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 3.
+[I 2024-05-16 11:39:18,893] Trial 105 finished with value: 1.56100332736969 and parameters: {'nf': 48, 'fc_dropout': 0.41472896394886605, 'ks': 50, 'conv_dropout': 0.05659545043309182, 'sa': False, 'se': False, 'learning_rate_model': 0.005492622514483592}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:39:19,642] Trial 106 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:43:44,436] Trial 107 finished with value: 1.541644811630249 and parameters: {'nf': 42, 'fc_dropout': 0.036306641846858397, 'ks': 12, 'conv_dropout': 0.11021913571707645, 'sa': False, 'se': False, 'learning_rate_model': 0.007162848244390718}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:43:45,716] Trial 108 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 11:43:47,906] Trial 109 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 3.
+[I 2024-05-16 11:43:49,124] Trial 110 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 11:43:50,330] Trial 111 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 11:43:51,084] Trial 112 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 11:48:13,372] Trial 113 finished with value: 1.5353178977966309 and parameters: {'nf': 44, 'fc_dropout': 0.43224125972644983, 'ks': 16, 'conv_dropout': 0.025494999046757207, 'sa': False, 'se': False, 'learning_rate_model': 0.009618139976476705}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:48:15,532] Trial 114 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 3.
+[I 2024-05-16 11:52:37,254] Trial 115 finished with value: 1.5477850437164307 and parameters: {'nf': 42, 'fc_dropout': 0.0506855866249167, 'ks': 15, 'conv_dropout': 0.13563789700697865, 'sa': False, 'se': False, 'learning_rate_model': 0.009574569492442528}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:57:35,276] Trial 116 finished with value: 1.614938735961914 and parameters: {'nf': 41, 'fc_dropout': 0.43022182159595523, 'ks': 16, 'conv_dropout': 0.002715816474909233, 'sa': True, 'se': False, 'learning_rate_model': 0.007986486967771484}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 11:57:36,008] Trial 117 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:02:32,749] Trial 118 finished with value: 1.5915193557739258 and parameters: {'nf': 39, 'fc_dropout': 0.07807378348798971, 'ks': 12, 'conv_dropout': 0.03805421637039412, 'sa': True, 'se': False, 'learning_rate_model': 0.005299130440141443}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:07:33,934] Trial 119 finished with value: 1.5329076051712036 and parameters: {'nf': 55, 'fc_dropout': 0.4595691085313676, 'ks': 18, 'conv_dropout': 0.019805939406449, 'sa': True, 'se': False, 'learning_rate_model': 0.0032764735245296535}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:07:34,684] Trial 120 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:07:35,487] Trial 121 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:07:36,289] Trial 122 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:12:37,456] Trial 123 finished with value: 1.5884124040603638 and parameters: {'nf': 58, 'fc_dropout': 0.025976592366307612, 'ks': 18, 'conv_dropout': 0.032591804652303644, 'sa': True, 'se': False, 'learning_rate_model': 0.00411139944920666}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:17:37,143] Trial 124 finished with value: 1.5643998384475708 and parameters: {'nf': 56, 'fc_dropout': 0.46314237048527906, 'ks': 13, 'conv_dropout': 0.13335150726342282, 'sa': True, 'se': False, 'learning_rate_model': 0.005997186279402735}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:17:37,952] Trial 125 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:17:38,760] Trial 126 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:17:43,990] Trial 127 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 8.
+[I 2024-05-16 12:17:44,727] Trial 128 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:17:51,500] Trial 129 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 11.
+[I 2024-05-16 12:17:52,288] Trial 130 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:15,780] Trial 131 finished with value: 1.5200884342193604 and parameters: {'nf': 42, 'fc_dropout': 0.05296156120546813, 'ks': 32, 'conv_dropout': 0.14124083674186355, 'sa': False, 'se': False, 'learning_rate_model': 0.009919842246822902}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:22:17,010] Trial 132 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 12:22:18,229] Trial 133 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 12:22:19,921] Trial 134 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 2.
+[I 2024-05-16 12:22:20,671] Trial 135 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:21,409] Trial 136 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:22,131] Trial 137 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:22,926] Trial 138 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:23,671] Trial 139 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:22:24,475] Trial 140 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:47,883] Trial 141 finished with value: 1.5797709226608276 and parameters: {'nf': 42, 'fc_dropout': 0.046533176863299025, 'ks': 15, 'conv_dropout': 0.1300111743467873, 'sa': False, 'se': False, 'learning_rate_model': 0.009805609663666491}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:26:50,075] Trial 142 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 3.
+[I 2024-05-16 12:26:50,802] Trial 143 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:51,527] Trial 144 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:52,264] Trial 145 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:53,469] Trial 146 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 12:26:54,283] Trial 147 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:55,029] Trial 148 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:55,876] Trial 149 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:56,649] Trial 150 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:57,393] Trial 151 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:58,141] Trial 152 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:26:58,864] Trial 153 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:27:00,121] Trial 154 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 12:27:00,908] Trial 155 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:27:01,721] Trial 156 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:27:02,480] Trial 157 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:32:23,140] Trial 158 finished with value: 1.5123586654663086 and parameters: {'nf': 44, 'fc_dropout': 0.0006930134187436224, 'ks': 16, 'conv_dropout': 0.08230584418399672, 'sa': True, 'se': False, 'learning_rate_model': 0.005910344105757508}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:37:36,929] Trial 159 finished with value: 1.5333393812179565 and parameters: {'nf': 46, 'fc_dropout': 0.009208820400687967, 'ks': 16, 'conv_dropout': 0.08213753299617338, 'sa': True, 'se': False, 'learning_rate_model': 0.0056109007724546075}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:37:37,765] Trial 160 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:37:38,573] Trial 161 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:00,732] Trial 162 finished with value: 1.560839056968689 and parameters: {'nf': 47, 'fc_dropout': 0.030736107573897047, 'ks': 16, 'conv_dropout': 0.08759491794320912, 'sa': True, 'se': False, 'learning_rate_model': 0.007289879035046113}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:43:01,573] Trial 163 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:06,395] Trial 164 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 12:43:07,205] Trial 165 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:08,018] Trial 166 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:08,826] Trial 167 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:09,655] Trial 168 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:10,467] Trial 169 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:43:15,951] Trial 170 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 8.
+[I 2024-05-16 12:43:17,204] Trial 171 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 12:43:18,041] Trial 172 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:47:55,935] Trial 173 finished with value: 1.5615290403366089 and parameters: {'nf': 51, 'fc_dropout': 0.056710700957495794, 'ks': 17, 'conv_dropout': 0.03489003924743957, 'sa': False, 'se': False, 'learning_rate_model': 0.009683501532228989}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:53:10,634] Trial 174 finished with value: 1.4567935466766357 and parameters: {'nf': 46, 'fc_dropout': 0.023084406621707423, 'ks': 12, 'conv_dropout': 0.12483011056409911, 'sa': True, 'se': False, 'learning_rate_model': 0.0074488332224093646}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:53:11,468] Trial 175 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:53:12,275] Trial 176 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:58:28,108] Trial 177 finished with value: 1.531646728515625 and parameters: {'nf': 47, 'fc_dropout': 0.04238910730589402, 'ks': 10, 'conv_dropout': 0.1455520889657635, 'sa': True, 'se': False, 'learning_rate_model': 0.007486810623109698}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 12:58:28,946] Trial 178 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:58:29,757] Trial 179 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 12:58:33,432] Trial 180 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 5.
+[I 2024-05-16 13:03:48,715] Trial 181 finished with value: 1.5364643335342407 and parameters: {'nf': 48, 'fc_dropout': 0.02774458008344792, 'ks': 11, 'conv_dropout': 0.12998317975452747, 'sa': True, 'se': False, 'learning_rate_model': 0.00830809941253427}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:09:04,487] Trial 182 finished with value: 1.5496013164520264 and parameters: {'nf': 47, 'fc_dropout': 0.03201967213781777, 'ks': 10, 'conv_dropout': 0.11443704666422487, 'sa': True, 'se': False, 'learning_rate_model': 0.00756459704503678}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:09:05,338] Trial 183 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:14:21,321] Trial 184 finished with value: 1.5695815086364746 and parameters: {'nf': 48, 'fc_dropout': 0.017424989853843473, 'ks': 11, 'conv_dropout': 0.10276590270659358, 'sa': True, 'se': False, 'learning_rate_model': 0.006417470342075957}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:14:22,161] Trial 185 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:19:38,736] Trial 186 finished with value: 1.5658459663391113 and parameters: {'nf': 49, 'fc_dropout': 0.039322152483896734, 'ks': 10, 'conv_dropout': 0.13072666384700174, 'sa': True, 'se': False, 'learning_rate_model': 0.008529346054281973}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:19:39,571] Trial 187 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:19:40,386] Trial 188 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:19:41,211] Trial 189 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:24:55,464] Trial 190 finished with value: 1.5295244455337524 and parameters: {'nf': 46, 'fc_dropout': 0.06088227085222906, 'ks': 14, 'conv_dropout': 0.16759297220309707, 'sa': True, 'se': False, 'learning_rate_model': 0.00816971653122615}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:24:56,298] Trial 191 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:24:59,427] Trial 192 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 4.
+[I 2024-05-16 13:25:01,397] Trial 193 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 2.
+[I 2024-05-16 13:25:02,207] Trial 194 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:25:03,015] Trial 195 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:25:03,837] Trial 196 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:25:08,610] Trial 197 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:25:09,423] Trial 198 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:25:10,248] Trial 199 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:30:34,371] Trial 200 finished with value: 1.514116883277893 and parameters: {'nf': 47, 'fc_dropout': 0.0014111954968106695, 'ks': 15, 'conv_dropout': 0.12629980944486108, 'sa': True, 'se': False, 'learning_rate_model': 0.009851138153646466}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:30:39,334] Trial 201 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:30:40,155] Trial 202 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:36:04,464] Trial 203 finished with value: 1.5368155241012573 and parameters: {'nf': 47, 'fc_dropout': 0.019160620087893286, 'ks': 16, 'conv_dropout': 0.14627015433658838, 'sa': True, 'se': False, 'learning_rate_model': 0.009754148677111593}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:36:05,906] Trial 204 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 13:36:10,783] Trial 205 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:41:29,930] Trial 206 finished with value: 1.5090070962905884 and parameters: {'nf': 46, 'fc_dropout': 0.00887007653581211, 'ks': 18, 'conv_dropout': 0.13713659984784268, 'sa': True, 'se': False, 'learning_rate_model': 0.009873828625419282}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:46:48,830] Trial 207 finished with value: 1.7543007135391235 and parameters: {'nf': 46, 'fc_dropout': 0.009993750902344587, 'ks': 18, 'conv_dropout': 0.1392475143207973, 'sa': True, 'se': False, 'learning_rate_model': 0.00985929331339505}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:46:49,676] Trial 208 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:46:54,534] Trial 209 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:46:55,350] Trial 210 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:52:19,124] Trial 211 finished with value: 1.5358155965805054 and parameters: {'nf': 47, 'fc_dropout': 0.019892995128218665, 'ks': 16, 'conv_dropout': 0.14297489975950545, 'sa': True, 'se': False, 'learning_rate_model': 0.009901995361989166}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:52:24,000] Trial 212 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:52:24,955] Trial 213 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:52:29,339] Trial 214 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 5.
+[I 2024-05-16 13:52:35,652] Trial 215 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 8.
+[I 2024-05-16 13:52:41,343] Trial 216 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 13:52:42,266] Trial 217 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:52:43,192] Trial 218 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:02,972] Trial 219 finished with value: 1.574129581451416 and parameters: {'nf': 49, 'fc_dropout': 5.8162035367914275e-05, 'ks': 17, 'conv_dropout': 0.12554721408475075, 'sa': True, 'se': False, 'learning_rate_model': 0.009863068572181038}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 13:58:03,842] Trial 220 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:04,652] Trial 221 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:06,621] Trial 222 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 2.
+[I 2024-05-16 13:58:07,866] Trial 223 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 13:58:09,264] Trial 224 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 13:58:10,001] Trial 225 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:10,817] Trial 226 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:11,637] Trial 227 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 13:58:12,380] Trial 228 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:03:29,839] Trial 229 finished with value: 1.4834576845169067 and parameters: {'nf': 51, 'fc_dropout': 0.0005932166371745255, 'ks': 16, 'conv_dropout': 0.1399644051425588, 'sa': True, 'se': False, 'learning_rate_model': 0.00993698099128626}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 14:03:34,715] Trial 230 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 14:03:36,122] Trial 231 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 14:08:53,831] Trial 232 finished with value: 1.5549894571304321 and parameters: {'nf': 51, 'fc_dropout': 0.0016166896147763415, 'ks': 17, 'conv_dropout': 0.12687181226923455, 'sa': True, 'se': False, 'learning_rate_model': 0.008331201453025435}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 14:14:10,918] Trial 233 finished with value: 1.5582492351531982 and parameters: {'nf': 55, 'fc_dropout': 0.012089489447688135, 'ks': 16, 'conv_dropout': 0.14032294679790575, 'sa': True, 'se': False, 'learning_rate_model': 0.009983204428562233}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 14:14:11,771] Trial 234 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:14:12,599] Trial 235 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:14:13,352] Trial 236 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:31,585] Trial 237 finished with value: 2.4775476455688477 and parameters: {'nf': 51, 'fc_dropout': 0.49871076610791665, 'ks': 15, 'conv_dropout': 0.13225131774744897, 'sa': True, 'se': False, 'learning_rate_model': 0.008607976798670957}. Best is trial 4 with value: 1.4514039754867554.
+[I 2024-05-16 14:19:32,428] Trial 238 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:33,176] Trial 239 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:34,602] Trial 240 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+[I 2024-05-16 14:19:35,442] Trial 241 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:39,116] Trial 242 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 5.
+[I 2024-05-16 14:19:39,933] Trial 243 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:40,756] Trial 244 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:41,589] Trial 245 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:42,352] Trial 246 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:43,177] Trial 247 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 0.
+[I 2024-05-16 14:19:48,021] Trial 248 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 7.
+[I 2024-05-16 14:19:49,415] Trial 249 pruned. Exception occured in `FastAIV2PruningCallback` when calling event `after_fit`:
+	Trial was pruned at epoch 1.
+
+Optuna study saved to optuna/no-name-3f155adc-4d71-49be-843a-e897e013c340.pkl
+To reload the study run: study = joblib.load('optuna/no-name-3f155adc-4d71-49be-843a-e897e013c340.pkl')
+
+Study statistics    : 
+  Study name        : no-name-3f155adc-4d71-49be-843a-e897e013c340
+  # finished trials : 250
+  # pruned trials   : 199
+  # complete trials : 51
+
+Best trial          :
+  value             : 1.4514039754867554
+  best_params = {'nf': 49, 'fc_dropout': 0.41731283594868646, 'ks': 10, 'conv_dropout': 0.37507215747248374, 'sa': True, 'se': False, 'learning_rate_model': 2.0402247877617882e-05}
+
+O Melhor modelo foi o de número 4
