@@ -1,1 +1,1 @@
-# Repositório para upload dos arquivos de resultados de Treinamentos e Otimizações feitas no servidor da UFPA do proojeto do LPO.
+# Repositório para upload dos arquivos de resultados de Treinamentos e Otimizações feitas no servidor da UFPA do projeto do LPO.
